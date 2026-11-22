@@ -1,0 +1,32 @@
+{
+  "class": "UET.DSE2049 7",
+  "group": "15",
+  "code": "DSE2049-C07-G15-london",
+  "scope": {
+    "Lớp": "UET.DSE2049 7",
+    "Nhóm": "15.0",
+    "Thành phố": "London",
+    "Quốc gia": "United Kingdom",
+    "Tiền tệ": "GBP",
+    "Mã dữ liệu": "DSE2049-C07-G15-london",
+    "Mốc 1": "2025-09-14",
+    "Mốc 2": "2025-12-13",
+    "Mốc 3": "2026-03-21",
+    "Mốc 4": "2026-06-19",
+    "URL gốc Inside Airbnb": "https://data.insideairbnb.com/united-kingdom/england/london/"
+  },
+  "listings": 1000,
+  "reviews": 5000,
+  "llm_sample": 1000,
+  "human_sample": 100,
+  "area_counts": {
+    "A01": 130,
+    "A02": 125,
+    "A03": 121,
+    "A04": 121,
+    "A05": 125,
+    "A06": 122,
+    "A07": 129,
+    "A08": 127
+  }
+}
