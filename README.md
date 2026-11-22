@@ -326,3 +326,4 @@ giảm giá cache và không cộng bốn snapshot có review xuất hiện lạ
 Kết quả với `llm_usage.csv` đã commit: 10 lượt gọi thành công cho 1.000 review dùng 88.645 token vào
 và 86.539 token ra (không có token suy nghĩ). Với đơn giá 0,30 USD/triệu token vào và 2,50 USD/triệu
 token ra, mẫu tốn khoảng 0,243 USD, tức khoảng 544,5 USD cho 2.241.353 review của London.
+# Draft2-Airbnb-Analysis-Nhom15
