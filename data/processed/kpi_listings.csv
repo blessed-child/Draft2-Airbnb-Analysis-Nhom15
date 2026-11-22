@@ -1,0 +1,421 @@
+snapshot_date,city,pham_vi,khu_vuc,ky_review,kpi_ten,gia_tri,don_vi,tu_so,mau_so,mau_ky_vong,so_listing,du_mau,trang_thai
+2025-09-14,london,city,london,,so_listing,1000.0,listing,,,,1000,True,da_tinh
+2025-09-14,london,city,london,,ty_le_nguyen_can,0.875,ty_le_0_1,875,1000,,1000,True,da_tinh
+2025-09-14,london,neighbourhood,Barking and Dagenham,,so_listing,1.0,listing,,,,1,False,da_tinh
+2025-09-14,london,neighbourhood,Barking and Dagenham,,ty_le_nguyen_can,1.0,ty_le_0_1,1,1,,1,False,da_tinh
+2025-09-14,london,neighbourhood,Barnet,,so_listing,17.0,listing,,,,17,True,da_tinh
+2025-09-14,london,neighbourhood,Barnet,,ty_le_nguyen_can,0.8823529411764706,ty_le_0_1,15,17,,17,True,da_tinh
+2025-09-14,london,neighbourhood,Bexley,,so_listing,5.0,listing,,,,5,False,da_tinh
+2025-09-14,london,neighbourhood,Bexley,,ty_le_nguyen_can,1.0,ty_le_0_1,5,5,,5,False,da_tinh
+2025-09-14,london,neighbourhood,Brent,,so_listing,27.0,listing,,,,27,True,da_tinh
+2025-09-14,london,neighbourhood,Brent,,ty_le_nguyen_can,0.9259259259259259,ty_le_0_1,25,27,,27,True,da_tinh
+2025-09-14,london,neighbourhood,Bromley,,so_listing,13.0,listing,,,,13,True,da_tinh
+2025-09-14,london,neighbourhood,Bromley,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2025-09-14,london,neighbourhood,Camden,,so_listing,66.0,listing,,,,66,True,da_tinh
+2025-09-14,london,neighbourhood,Camden,,ty_le_nguyen_can,0.9090909090909091,ty_le_0_1,60,66,,66,True,da_tinh
+2025-09-14,london,neighbourhood,City of London,,so_listing,12.0,listing,,,,12,True,da_tinh
+2025-09-14,london,neighbourhood,City of London,,ty_le_nguyen_can,1.0,ty_le_0_1,12,12,,12,True,da_tinh
+2025-09-14,london,neighbourhood,Croydon,,so_listing,20.0,listing,,,,20,True,da_tinh
+2025-09-14,london,neighbourhood,Croydon,,ty_le_nguyen_can,0.95,ty_le_0_1,19,20,,20,True,da_tinh
+2025-09-14,london,neighbourhood,Ealing,,so_listing,31.0,listing,,,,31,True,da_tinh
+2025-09-14,london,neighbourhood,Ealing,,ty_le_nguyen_can,0.8387096774193549,ty_le_0_1,26,31,,31,True,da_tinh
+2025-09-14,london,neighbourhood,Enfield,,so_listing,13.0,listing,,,,13,True,da_tinh
+2025-09-14,london,neighbourhood,Enfield,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2025-09-14,london,neighbourhood,Greenwich,,so_listing,19.0,listing,,,,19,True,da_tinh
+2025-09-14,london,neighbourhood,Greenwich,,ty_le_nguyen_can,0.8421052631578947,ty_le_0_1,16,19,,19,True,da_tinh
+2025-09-14,london,neighbourhood,Hackney,,so_listing,51.0,listing,,,,51,True,da_tinh
+2025-09-14,london,neighbourhood,Hackney,,ty_le_nguyen_can,0.8235294117647058,ty_le_0_1,42,51,,51,True,da_tinh
+2025-09-14,london,neighbourhood,Hammersmith and Fulham,,so_listing,39.0,listing,,,,39,True,da_tinh
+2025-09-14,london,neighbourhood,Hammersmith and Fulham,,ty_le_nguyen_can,0.8974358974358975,ty_le_0_1,35,39,,39,True,da_tinh
+2025-09-14,london,neighbourhood,Haringey,,so_listing,21.0,listing,,,,21,True,da_tinh
+2025-09-14,london,neighbourhood,Haringey,,ty_le_nguyen_can,0.8095238095238095,ty_le_0_1,17,21,,21,True,da_tinh
+2025-09-14,london,neighbourhood,Harrow,,so_listing,4.0,listing,,,,4,False,da_tinh
+2025-09-14,london,neighbourhood,Harrow,,ty_le_nguyen_can,1.0,ty_le_0_1,4,4,,4,False,da_tinh
+2025-09-14,london,neighbourhood,Havering,,so_listing,8.0,listing,,,,8,False,da_tinh
+2025-09-14,london,neighbourhood,Havering,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2025-09-14,london,neighbourhood,Hillingdon,,so_listing,12.0,listing,,,,12,True,da_tinh
+2025-09-14,london,neighbourhood,Hillingdon,,ty_le_nguyen_can,0.8333333333333334,ty_le_0_1,10,12,,12,True,da_tinh
+2025-09-14,london,neighbourhood,Hounslow,,so_listing,13.0,listing,,,,13,True,da_tinh
+2025-09-14,london,neighbourhood,Hounslow,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2025-09-14,london,neighbourhood,Islington,,so_listing,43.0,listing,,,,43,True,da_tinh
+2025-09-14,london,neighbourhood,Islington,,ty_le_nguyen_can,0.9534883720930233,ty_le_0_1,41,43,,43,True,da_tinh
+2025-09-14,london,neighbourhood,Kensington and Chelsea,,so_listing,87.0,listing,,,,87,True,da_tinh
+2025-09-14,london,neighbourhood,Kensington and Chelsea,,ty_le_nguyen_can,0.9425287356321839,ty_le_0_1,82,87,,87,True,da_tinh
+2025-09-14,london,neighbourhood,Kingston upon Thames,,so_listing,8.0,listing,,,,8,False,da_tinh
+2025-09-14,london,neighbourhood,Kingston upon Thames,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2025-09-14,london,neighbourhood,Lambeth,,so_listing,40.0,listing,,,,40,True,da_tinh
+2025-09-14,london,neighbourhood,Lambeth,,ty_le_nguyen_can,0.85,ty_le_0_1,34,40,,40,True,da_tinh
+2025-09-14,london,neighbourhood,Lewisham,,so_listing,21.0,listing,,,,21,True,da_tinh
+2025-09-14,london,neighbourhood,Lewisham,,ty_le_nguyen_can,0.8571428571428571,ty_le_0_1,18,21,,21,True,da_tinh
+2025-09-14,london,neighbourhood,Merton,,so_listing,14.0,listing,,,,14,True,da_tinh
+2025-09-14,london,neighbourhood,Merton,,ty_le_nguyen_can,0.7857142857142857,ty_le_0_1,11,14,,14,True,da_tinh
+2025-09-14,london,neighbourhood,Newham,,so_listing,20.0,listing,,,,20,True,da_tinh
+2025-09-14,london,neighbourhood,Newham,,ty_le_nguyen_can,0.85,ty_le_0_1,17,20,,20,True,da_tinh
+2025-09-14,london,neighbourhood,Redbridge,,so_listing,9.0,listing,,,,9,False,da_tinh
+2025-09-14,london,neighbourhood,Redbridge,,ty_le_nguyen_can,0.8888888888888888,ty_le_0_1,8,9,,9,False,da_tinh
+2025-09-14,london,neighbourhood,Richmond upon Thames,,so_listing,15.0,listing,,,,15,True,da_tinh
+2025-09-14,london,neighbourhood,Richmond upon Thames,,ty_le_nguyen_can,0.8,ty_le_0_1,12,15,,15,True,da_tinh
+2025-09-14,london,neighbourhood,Southwark,,so_listing,45.0,listing,,,,45,True,da_tinh
+2025-09-14,london,neighbourhood,Southwark,,ty_le_nguyen_can,0.8222222222222222,ty_le_0_1,37,45,,45,True,da_tinh
+2025-09-14,london,neighbourhood,Sutton,,so_listing,8.0,listing,,,,8,False,da_tinh
+2025-09-14,london,neighbourhood,Sutton,,ty_le_nguyen_can,0.625,ty_le_0_1,5,8,,8,False,da_tinh
+2025-09-14,london,neighbourhood,Tower Hamlets,,so_listing,71.0,listing,,,,71,True,da_tinh
+2025-09-14,london,neighbourhood,Tower Hamlets,,ty_le_nguyen_can,0.8028169014084507,ty_le_0_1,57,71,,71,True,da_tinh
+2025-09-14,london,neighbourhood,Waltham Forest,,so_listing,23.0,listing,,,,23,True,da_tinh
+2025-09-14,london,neighbourhood,Waltham Forest,,ty_le_nguyen_can,0.782608695652174,ty_le_0_1,18,23,,23,True,da_tinh
+2025-09-14,london,neighbourhood,Wandsworth,,so_listing,56.0,listing,,,,56,True,da_tinh
+2025-09-14,london,neighbourhood,Wandsworth,,ty_le_nguyen_can,0.8214285714285714,ty_le_0_1,46,56,,56,True,da_tinh
+2025-09-14,london,neighbourhood,Westminster,,so_listing,168.0,listing,,,,168,True,da_tinh
+2025-09-14,london,neighbourhood,Westminster,,ty_le_nguyen_can,0.9583333333333334,ty_le_0_1,161,168,,168,True,da_tinh
+2025-09-14,london,analysis_area,A01,,so_listing,130.0,listing,,,,130,True,da_tinh
+2025-09-14,london,analysis_area,A01,,ty_le_nguyen_can,0.8615384615384616,ty_le_0_1,112,130,,130,True,da_tinh
+2025-09-14,london,analysis_area,A02,,so_listing,125.0,listing,,,,125,True,da_tinh
+2025-09-14,london,analysis_area,A02,,ty_le_nguyen_can,0.888,ty_le_0_1,111,125,,125,True,da_tinh
+2025-09-14,london,analysis_area,A03,,so_listing,121.0,listing,,,,121,True,da_tinh
+2025-09-14,london,analysis_area,A03,,ty_le_nguyen_can,0.8925619834710744,ty_le_0_1,108,121,,121,True,da_tinh
+2025-09-14,london,analysis_area,A04,,so_listing,121.0,listing,,,,121,True,da_tinh
+2025-09-14,london,analysis_area,A04,,ty_le_nguyen_can,0.9256198347107438,ty_le_0_1,112,121,,121,True,da_tinh
+2025-09-14,london,analysis_area,A05,,so_listing,125.0,listing,,,,125,True,da_tinh
+2025-09-14,london,analysis_area,A05,,ty_le_nguyen_can,0.848,ty_le_0_1,106,125,,125,True,da_tinh
+2025-09-14,london,analysis_area,A06,,so_listing,122.0,listing,,,,122,True,da_tinh
+2025-09-14,london,analysis_area,A06,,ty_le_nguyen_can,0.8852459016393442,ty_le_0_1,108,122,,122,True,da_tinh
+2025-09-14,london,analysis_area,A07,,so_listing,129.0,listing,,,,129,True,da_tinh
+2025-09-14,london,analysis_area,A07,,ty_le_nguyen_can,0.9147286821705426,ty_le_0_1,118,129,,129,True,da_tinh
+2025-09-14,london,analysis_area,A08,,so_listing,127.0,listing,,,,127,True,da_tinh
+2025-09-14,london,analysis_area,A08,,ty_le_nguyen_can,0.7874015748031497,ty_le_0_1,100,127,,127,True,da_tinh
+2025-12-13,london,city,london,,so_listing,1000.0,listing,,,,1000,True,da_tinh
+2025-12-13,london,city,london,,ty_le_nguyen_can,0.875,ty_le_0_1,875,1000,,1000,True,da_tinh
+2025-12-13,london,neighbourhood,Barking and Dagenham,,so_listing,1.0,listing,,,,1,False,da_tinh
+2025-12-13,london,neighbourhood,Barking and Dagenham,,ty_le_nguyen_can,1.0,ty_le_0_1,1,1,,1,False,da_tinh
+2025-12-13,london,neighbourhood,Barnet,,so_listing,17.0,listing,,,,17,True,da_tinh
+2025-12-13,london,neighbourhood,Barnet,,ty_le_nguyen_can,0.8823529411764706,ty_le_0_1,15,17,,17,True,da_tinh
+2025-12-13,london,neighbourhood,Bexley,,so_listing,5.0,listing,,,,5,False,da_tinh
+2025-12-13,london,neighbourhood,Bexley,,ty_le_nguyen_can,1.0,ty_le_0_1,5,5,,5,False,da_tinh
+2025-12-13,london,neighbourhood,Brent,,so_listing,27.0,listing,,,,27,True,da_tinh
+2025-12-13,london,neighbourhood,Brent,,ty_le_nguyen_can,0.9259259259259259,ty_le_0_1,25,27,,27,True,da_tinh
+2025-12-13,london,neighbourhood,Bromley,,so_listing,13.0,listing,,,,13,True,da_tinh
+2025-12-13,london,neighbourhood,Bromley,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2025-12-13,london,neighbourhood,Camden,,so_listing,66.0,listing,,,,66,True,da_tinh
+2025-12-13,london,neighbourhood,Camden,,ty_le_nguyen_can,0.9090909090909091,ty_le_0_1,60,66,,66,True,da_tinh
+2025-12-13,london,neighbourhood,City of London,,so_listing,12.0,listing,,,,12,True,da_tinh
+2025-12-13,london,neighbourhood,City of London,,ty_le_nguyen_can,1.0,ty_le_0_1,12,12,,12,True,da_tinh
+2025-12-13,london,neighbourhood,Croydon,,so_listing,20.0,listing,,,,20,True,da_tinh
+2025-12-13,london,neighbourhood,Croydon,,ty_le_nguyen_can,0.95,ty_le_0_1,19,20,,20,True,da_tinh
+2025-12-13,london,neighbourhood,Ealing,,so_listing,31.0,listing,,,,31,True,da_tinh
+2025-12-13,london,neighbourhood,Ealing,,ty_le_nguyen_can,0.8387096774193549,ty_le_0_1,26,31,,31,True,da_tinh
+2025-12-13,london,neighbourhood,Enfield,,so_listing,13.0,listing,,,,13,True,da_tinh
+2025-12-13,london,neighbourhood,Enfield,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2025-12-13,london,neighbourhood,Greenwich,,so_listing,19.0,listing,,,,19,True,da_tinh
+2025-12-13,london,neighbourhood,Greenwich,,ty_le_nguyen_can,0.8421052631578947,ty_le_0_1,16,19,,19,True,da_tinh
+2025-12-13,london,neighbourhood,Hackney,,so_listing,51.0,listing,,,,51,True,da_tinh
+2025-12-13,london,neighbourhood,Hackney,,ty_le_nguyen_can,0.8235294117647058,ty_le_0_1,42,51,,51,True,da_tinh
+2025-12-13,london,neighbourhood,Hammersmith and Fulham,,so_listing,39.0,listing,,,,39,True,da_tinh
+2025-12-13,london,neighbourhood,Hammersmith and Fulham,,ty_le_nguyen_can,0.8974358974358975,ty_le_0_1,35,39,,39,True,da_tinh
+2025-12-13,london,neighbourhood,Haringey,,so_listing,21.0,listing,,,,21,True,da_tinh
+2025-12-13,london,neighbourhood,Haringey,,ty_le_nguyen_can,0.8095238095238095,ty_le_0_1,17,21,,21,True,da_tinh
+2025-12-13,london,neighbourhood,Harrow,,so_listing,4.0,listing,,,,4,False,da_tinh
+2025-12-13,london,neighbourhood,Harrow,,ty_le_nguyen_can,1.0,ty_le_0_1,4,4,,4,False,da_tinh
+2025-12-13,london,neighbourhood,Havering,,so_listing,8.0,listing,,,,8,False,da_tinh
+2025-12-13,london,neighbourhood,Havering,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2025-12-13,london,neighbourhood,Hillingdon,,so_listing,12.0,listing,,,,12,True,da_tinh
+2025-12-13,london,neighbourhood,Hillingdon,,ty_le_nguyen_can,0.8333333333333334,ty_le_0_1,10,12,,12,True,da_tinh
+2025-12-13,london,neighbourhood,Hounslow,,so_listing,13.0,listing,,,,13,True,da_tinh
+2025-12-13,london,neighbourhood,Hounslow,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2025-12-13,london,neighbourhood,Islington,,so_listing,43.0,listing,,,,43,True,da_tinh
+2025-12-13,london,neighbourhood,Islington,,ty_le_nguyen_can,0.9534883720930233,ty_le_0_1,41,43,,43,True,da_tinh
+2025-12-13,london,neighbourhood,Kensington and Chelsea,,so_listing,87.0,listing,,,,87,True,da_tinh
+2025-12-13,london,neighbourhood,Kensington and Chelsea,,ty_le_nguyen_can,0.9425287356321839,ty_le_0_1,82,87,,87,True,da_tinh
+2025-12-13,london,neighbourhood,Kingston upon Thames,,so_listing,8.0,listing,,,,8,False,da_tinh
+2025-12-13,london,neighbourhood,Kingston upon Thames,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2025-12-13,london,neighbourhood,Lambeth,,so_listing,40.0,listing,,,,40,True,da_tinh
+2025-12-13,london,neighbourhood,Lambeth,,ty_le_nguyen_can,0.85,ty_le_0_1,34,40,,40,True,da_tinh
+2025-12-13,london,neighbourhood,Lewisham,,so_listing,21.0,listing,,,,21,True,da_tinh
+2025-12-13,london,neighbourhood,Lewisham,,ty_le_nguyen_can,0.8571428571428571,ty_le_0_1,18,21,,21,True,da_tinh
+2025-12-13,london,neighbourhood,Merton,,so_listing,14.0,listing,,,,14,True,da_tinh
+2025-12-13,london,neighbourhood,Merton,,ty_le_nguyen_can,0.7857142857142857,ty_le_0_1,11,14,,14,True,da_tinh
+2025-12-13,london,neighbourhood,Newham,,so_listing,20.0,listing,,,,20,True,da_tinh
+2025-12-13,london,neighbourhood,Newham,,ty_le_nguyen_can,0.85,ty_le_0_1,17,20,,20,True,da_tinh
+2025-12-13,london,neighbourhood,Redbridge,,so_listing,9.0,listing,,,,9,False,da_tinh
+2025-12-13,london,neighbourhood,Redbridge,,ty_le_nguyen_can,0.8888888888888888,ty_le_0_1,8,9,,9,False,da_tinh
+2025-12-13,london,neighbourhood,Richmond upon Thames,,so_listing,15.0,listing,,,,15,True,da_tinh
+2025-12-13,london,neighbourhood,Richmond upon Thames,,ty_le_nguyen_can,0.8,ty_le_0_1,12,15,,15,True,da_tinh
+2025-12-13,london,neighbourhood,Southwark,,so_listing,45.0,listing,,,,45,True,da_tinh
+2025-12-13,london,neighbourhood,Southwark,,ty_le_nguyen_can,0.8222222222222222,ty_le_0_1,37,45,,45,True,da_tinh
+2025-12-13,london,neighbourhood,Sutton,,so_listing,8.0,listing,,,,8,False,da_tinh
+2025-12-13,london,neighbourhood,Sutton,,ty_le_nguyen_can,0.625,ty_le_0_1,5,8,,8,False,da_tinh
+2025-12-13,london,neighbourhood,Tower Hamlets,,so_listing,71.0,listing,,,,71,True,da_tinh
+2025-12-13,london,neighbourhood,Tower Hamlets,,ty_le_nguyen_can,0.8028169014084507,ty_le_0_1,57,71,,71,True,da_tinh
+2025-12-13,london,neighbourhood,Waltham Forest,,so_listing,23.0,listing,,,,23,True,da_tinh
+2025-12-13,london,neighbourhood,Waltham Forest,,ty_le_nguyen_can,0.782608695652174,ty_le_0_1,18,23,,23,True,da_tinh
+2025-12-13,london,neighbourhood,Wandsworth,,so_listing,56.0,listing,,,,56,True,da_tinh
+2025-12-13,london,neighbourhood,Wandsworth,,ty_le_nguyen_can,0.8214285714285714,ty_le_0_1,46,56,,56,True,da_tinh
+2025-12-13,london,neighbourhood,Westminster,,so_listing,168.0,listing,,,,168,True,da_tinh
+2025-12-13,london,neighbourhood,Westminster,,ty_le_nguyen_can,0.9583333333333334,ty_le_0_1,161,168,,168,True,da_tinh
+2025-12-13,london,analysis_area,A01,,so_listing,130.0,listing,,,,130,True,da_tinh
+2025-12-13,london,analysis_area,A01,,ty_le_nguyen_can,0.8615384615384616,ty_le_0_1,112,130,,130,True,da_tinh
+2025-12-13,london,analysis_area,A02,,so_listing,125.0,listing,,,,125,True,da_tinh
+2025-12-13,london,analysis_area,A02,,ty_le_nguyen_can,0.888,ty_le_0_1,111,125,,125,True,da_tinh
+2025-12-13,london,analysis_area,A03,,so_listing,121.0,listing,,,,121,True,da_tinh
+2025-12-13,london,analysis_area,A03,,ty_le_nguyen_can,0.8925619834710744,ty_le_0_1,108,121,,121,True,da_tinh
+2025-12-13,london,analysis_area,A04,,so_listing,121.0,listing,,,,121,True,da_tinh
+2025-12-13,london,analysis_area,A04,,ty_le_nguyen_can,0.9256198347107438,ty_le_0_1,112,121,,121,True,da_tinh
+2025-12-13,london,analysis_area,A05,,so_listing,125.0,listing,,,,125,True,da_tinh
+2025-12-13,london,analysis_area,A05,,ty_le_nguyen_can,0.848,ty_le_0_1,106,125,,125,True,da_tinh
+2025-12-13,london,analysis_area,A06,,so_listing,122.0,listing,,,,122,True,da_tinh
+2025-12-13,london,analysis_area,A06,,ty_le_nguyen_can,0.8852459016393442,ty_le_0_1,108,122,,122,True,da_tinh
+2025-12-13,london,analysis_area,A07,,so_listing,129.0,listing,,,,129,True,da_tinh
+2025-12-13,london,analysis_area,A07,,ty_le_nguyen_can,0.9147286821705426,ty_le_0_1,118,129,,129,True,da_tinh
+2025-12-13,london,analysis_area,A08,,so_listing,127.0,listing,,,,127,True,da_tinh
+2025-12-13,london,analysis_area,A08,,ty_le_nguyen_can,0.7874015748031497,ty_le_0_1,100,127,,127,True,da_tinh
+2026-03-21,london,city,london,,so_listing,1000.0,listing,,,,1000,True,da_tinh
+2026-03-21,london,city,london,,ty_le_nguyen_can,0.875,ty_le_0_1,875,1000,,1000,True,da_tinh
+2026-03-21,london,neighbourhood,Barking and Dagenham,,so_listing,1.0,listing,,,,1,False,da_tinh
+2026-03-21,london,neighbourhood,Barking and Dagenham,,ty_le_nguyen_can,1.0,ty_le_0_1,1,1,,1,False,da_tinh
+2026-03-21,london,neighbourhood,Barnet,,so_listing,17.0,listing,,,,17,True,da_tinh
+2026-03-21,london,neighbourhood,Barnet,,ty_le_nguyen_can,0.8823529411764706,ty_le_0_1,15,17,,17,True,da_tinh
+2026-03-21,london,neighbourhood,Bexley,,so_listing,5.0,listing,,,,5,False,da_tinh
+2026-03-21,london,neighbourhood,Bexley,,ty_le_nguyen_can,1.0,ty_le_0_1,5,5,,5,False,da_tinh
+2026-03-21,london,neighbourhood,Brent,,so_listing,27.0,listing,,,,27,True,da_tinh
+2026-03-21,london,neighbourhood,Brent,,ty_le_nguyen_can,0.9259259259259259,ty_le_0_1,25,27,,27,True,da_tinh
+2026-03-21,london,neighbourhood,Bromley,,so_listing,13.0,listing,,,,13,True,da_tinh
+2026-03-21,london,neighbourhood,Bromley,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2026-03-21,london,neighbourhood,Camden,,so_listing,66.0,listing,,,,66,True,da_tinh
+2026-03-21,london,neighbourhood,Camden,,ty_le_nguyen_can,0.9090909090909091,ty_le_0_1,60,66,,66,True,da_tinh
+2026-03-21,london,neighbourhood,City of London,,so_listing,12.0,listing,,,,12,True,da_tinh
+2026-03-21,london,neighbourhood,City of London,,ty_le_nguyen_can,1.0,ty_le_0_1,12,12,,12,True,da_tinh
+2026-03-21,london,neighbourhood,Croydon,,so_listing,20.0,listing,,,,20,True,da_tinh
+2026-03-21,london,neighbourhood,Croydon,,ty_le_nguyen_can,0.95,ty_le_0_1,19,20,,20,True,da_tinh
+2026-03-21,london,neighbourhood,Ealing,,so_listing,31.0,listing,,,,31,True,da_tinh
+2026-03-21,london,neighbourhood,Ealing,,ty_le_nguyen_can,0.8387096774193549,ty_le_0_1,26,31,,31,True,da_tinh
+2026-03-21,london,neighbourhood,Enfield,,so_listing,13.0,listing,,,,13,True,da_tinh
+2026-03-21,london,neighbourhood,Enfield,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2026-03-21,london,neighbourhood,Greenwich,,so_listing,19.0,listing,,,,19,True,da_tinh
+2026-03-21,london,neighbourhood,Greenwich,,ty_le_nguyen_can,0.8421052631578947,ty_le_0_1,16,19,,19,True,da_tinh
+2026-03-21,london,neighbourhood,Hackney,,so_listing,51.0,listing,,,,51,True,da_tinh
+2026-03-21,london,neighbourhood,Hackney,,ty_le_nguyen_can,0.8235294117647058,ty_le_0_1,42,51,,51,True,da_tinh
+2026-03-21,london,neighbourhood,Hammersmith and Fulham,,so_listing,39.0,listing,,,,39,True,da_tinh
+2026-03-21,london,neighbourhood,Hammersmith and Fulham,,ty_le_nguyen_can,0.8974358974358975,ty_le_0_1,35,39,,39,True,da_tinh
+2026-03-21,london,neighbourhood,Haringey,,so_listing,21.0,listing,,,,21,True,da_tinh
+2026-03-21,london,neighbourhood,Haringey,,ty_le_nguyen_can,0.8095238095238095,ty_le_0_1,17,21,,21,True,da_tinh
+2026-03-21,london,neighbourhood,Harrow,,so_listing,4.0,listing,,,,4,False,da_tinh
+2026-03-21,london,neighbourhood,Harrow,,ty_le_nguyen_can,1.0,ty_le_0_1,4,4,,4,False,da_tinh
+2026-03-21,london,neighbourhood,Havering,,so_listing,8.0,listing,,,,8,False,da_tinh
+2026-03-21,london,neighbourhood,Havering,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2026-03-21,london,neighbourhood,Hillingdon,,so_listing,12.0,listing,,,,12,True,da_tinh
+2026-03-21,london,neighbourhood,Hillingdon,,ty_le_nguyen_can,0.8333333333333334,ty_le_0_1,10,12,,12,True,da_tinh
+2026-03-21,london,neighbourhood,Hounslow,,so_listing,13.0,listing,,,,13,True,da_tinh
+2026-03-21,london,neighbourhood,Hounslow,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2026-03-21,london,neighbourhood,Islington,,so_listing,43.0,listing,,,,43,True,da_tinh
+2026-03-21,london,neighbourhood,Islington,,ty_le_nguyen_can,0.9534883720930233,ty_le_0_1,41,43,,43,True,da_tinh
+2026-03-21,london,neighbourhood,Kensington and Chelsea,,so_listing,87.0,listing,,,,87,True,da_tinh
+2026-03-21,london,neighbourhood,Kensington and Chelsea,,ty_le_nguyen_can,0.9425287356321839,ty_le_0_1,82,87,,87,True,da_tinh
+2026-03-21,london,neighbourhood,Kingston upon Thames,,so_listing,8.0,listing,,,,8,False,da_tinh
+2026-03-21,london,neighbourhood,Kingston upon Thames,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2026-03-21,london,neighbourhood,Lambeth,,so_listing,40.0,listing,,,,40,True,da_tinh
+2026-03-21,london,neighbourhood,Lambeth,,ty_le_nguyen_can,0.85,ty_le_0_1,34,40,,40,True,da_tinh
+2026-03-21,london,neighbourhood,Lewisham,,so_listing,21.0,listing,,,,21,True,da_tinh
+2026-03-21,london,neighbourhood,Lewisham,,ty_le_nguyen_can,0.8571428571428571,ty_le_0_1,18,21,,21,True,da_tinh
+2026-03-21,london,neighbourhood,Merton,,so_listing,14.0,listing,,,,14,True,da_tinh
+2026-03-21,london,neighbourhood,Merton,,ty_le_nguyen_can,0.7857142857142857,ty_le_0_1,11,14,,14,True,da_tinh
+2026-03-21,london,neighbourhood,Newham,,so_listing,20.0,listing,,,,20,True,da_tinh
+2026-03-21,london,neighbourhood,Newham,,ty_le_nguyen_can,0.85,ty_le_0_1,17,20,,20,True,da_tinh
+2026-03-21,london,neighbourhood,Redbridge,,so_listing,9.0,listing,,,,9,False,da_tinh
+2026-03-21,london,neighbourhood,Redbridge,,ty_le_nguyen_can,0.8888888888888888,ty_le_0_1,8,9,,9,False,da_tinh
+2026-03-21,london,neighbourhood,Richmond upon Thames,,so_listing,15.0,listing,,,,15,True,da_tinh
+2026-03-21,london,neighbourhood,Richmond upon Thames,,ty_le_nguyen_can,0.8,ty_le_0_1,12,15,,15,True,da_tinh
+2026-03-21,london,neighbourhood,Southwark,,so_listing,45.0,listing,,,,45,True,da_tinh
+2026-03-21,london,neighbourhood,Southwark,,ty_le_nguyen_can,0.8222222222222222,ty_le_0_1,37,45,,45,True,da_tinh
+2026-03-21,london,neighbourhood,Sutton,,so_listing,8.0,listing,,,,8,False,da_tinh
+2026-03-21,london,neighbourhood,Sutton,,ty_le_nguyen_can,0.625,ty_le_0_1,5,8,,8,False,da_tinh
+2026-03-21,london,neighbourhood,Tower Hamlets,,so_listing,71.0,listing,,,,71,True,da_tinh
+2026-03-21,london,neighbourhood,Tower Hamlets,,ty_le_nguyen_can,0.8028169014084507,ty_le_0_1,57,71,,71,True,da_tinh
+2026-03-21,london,neighbourhood,Waltham Forest,,so_listing,23.0,listing,,,,23,True,da_tinh
+2026-03-21,london,neighbourhood,Waltham Forest,,ty_le_nguyen_can,0.782608695652174,ty_le_0_1,18,23,,23,True,da_tinh
+2026-03-21,london,neighbourhood,Wandsworth,,so_listing,56.0,listing,,,,56,True,da_tinh
+2026-03-21,london,neighbourhood,Wandsworth,,ty_le_nguyen_can,0.8214285714285714,ty_le_0_1,46,56,,56,True,da_tinh
+2026-03-21,london,neighbourhood,Westminster,,so_listing,168.0,listing,,,,168,True,da_tinh
+2026-03-21,london,neighbourhood,Westminster,,ty_le_nguyen_can,0.9583333333333334,ty_le_0_1,161,168,,168,True,da_tinh
+2026-03-21,london,analysis_area,A01,,so_listing,130.0,listing,,,,130,True,da_tinh
+2026-03-21,london,analysis_area,A01,,ty_le_nguyen_can,0.8615384615384616,ty_le_0_1,112,130,,130,True,da_tinh
+2026-03-21,london,analysis_area,A02,,so_listing,125.0,listing,,,,125,True,da_tinh
+2026-03-21,london,analysis_area,A02,,ty_le_nguyen_can,0.888,ty_le_0_1,111,125,,125,True,da_tinh
+2026-03-21,london,analysis_area,A03,,so_listing,121.0,listing,,,,121,True,da_tinh
+2026-03-21,london,analysis_area,A03,,ty_le_nguyen_can,0.8925619834710744,ty_le_0_1,108,121,,121,True,da_tinh
+2026-03-21,london,analysis_area,A04,,so_listing,121.0,listing,,,,121,True,da_tinh
+2026-03-21,london,analysis_area,A04,,ty_le_nguyen_can,0.9256198347107438,ty_le_0_1,112,121,,121,True,da_tinh
+2026-03-21,london,analysis_area,A05,,so_listing,125.0,listing,,,,125,True,da_tinh
+2026-03-21,london,analysis_area,A05,,ty_le_nguyen_can,0.848,ty_le_0_1,106,125,,125,True,da_tinh
+2026-03-21,london,analysis_area,A06,,so_listing,122.0,listing,,,,122,True,da_tinh
+2026-03-21,london,analysis_area,A06,,ty_le_nguyen_can,0.8852459016393442,ty_le_0_1,108,122,,122,True,da_tinh
+2026-03-21,london,analysis_area,A07,,so_listing,129.0,listing,,,,129,True,da_tinh
+2026-03-21,london,analysis_area,A07,,ty_le_nguyen_can,0.9147286821705426,ty_le_0_1,118,129,,129,True,da_tinh
+2026-03-21,london,analysis_area,A08,,so_listing,127.0,listing,,,,127,True,da_tinh
+2026-03-21,london,analysis_area,A08,,ty_le_nguyen_can,0.7874015748031497,ty_le_0_1,100,127,,127,True,da_tinh
+2026-06-19,london,city,london,,so_listing,1000.0,listing,,,,1000,True,da_tinh
+2026-06-19,london,city,london,,ty_le_nguyen_can,0.875,ty_le_0_1,875,1000,,1000,True,da_tinh
+2026-06-19,london,city,london,,gia_trung_vi_gbp,232.0,GBP/dem,,980,,980,True,da_tinh
+2026-06-19,london,city,london,,gia_trung_vi_gbp_nguyen_can,258.0,GBP/dem,,855,,855,True,da_tinh
+2026-06-19,london,neighbourhood,Barking and Dagenham,,so_listing,1.0,listing,,,,1,False,da_tinh
+2026-06-19,london,neighbourhood,Barking and Dagenham,,ty_le_nguyen_can,1.0,ty_le_0_1,1,1,,1,False,da_tinh
+2026-06-19,london,neighbourhood,Barking and Dagenham,,gia_trung_vi_gbp,170.0,GBP/dem,,1,,1,False,da_tinh
+2026-06-19,london,neighbourhood,Barking and Dagenham,,gia_trung_vi_gbp_nguyen_can,170.0,GBP/dem,,1,,1,False,da_tinh
+2026-06-19,london,neighbourhood,Barnet,,so_listing,17.0,listing,,,,17,True,da_tinh
+2026-06-19,london,neighbourhood,Barnet,,ty_le_nguyen_can,0.8823529411764706,ty_le_0_1,15,17,,17,True,da_tinh
+2026-06-19,london,neighbourhood,Barnet,,gia_trung_vi_gbp,176.5,GBP/dem,,17,,17,True,da_tinh
+2026-06-19,london,neighbourhood,Barnet,,gia_trung_vi_gbp_nguyen_can,183.5,GBP/dem,,15,,15,True,da_tinh
+2026-06-19,london,neighbourhood,Bexley,,so_listing,5.0,listing,,,,5,False,da_tinh
+2026-06-19,london,neighbourhood,Bexley,,ty_le_nguyen_can,1.0,ty_le_0_1,5,5,,5,False,da_tinh
+2026-06-19,london,neighbourhood,Bexley,,gia_trung_vi_gbp,149.0,GBP/dem,,5,,5,False,da_tinh
+2026-06-19,london,neighbourhood,Bexley,,gia_trung_vi_gbp_nguyen_can,149.0,GBP/dem,,5,,5,False,da_tinh
+2026-06-19,london,neighbourhood,Brent,,so_listing,27.0,listing,,,,27,True,da_tinh
+2026-06-19,london,neighbourhood,Brent,,ty_le_nguyen_can,0.9259259259259259,ty_le_0_1,25,27,,27,True,da_tinh
+2026-06-19,london,neighbourhood,Brent,,gia_trung_vi_gbp,206.75,GBP/dem,,26,,26,True,da_tinh
+2026-06-19,london,neighbourhood,Brent,,gia_trung_vi_gbp_nguyen_can,213.25,GBP/dem,,24,,24,True,da_tinh
+2026-06-19,london,neighbourhood,Bromley,,so_listing,13.0,listing,,,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Bromley,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Bromley,,gia_trung_vi_gbp,176.14,GBP/dem,,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Bromley,,gia_trung_vi_gbp_nguyen_can,275.5,GBP/dem,,9,,9,False,da_tinh
+2026-06-19,london,neighbourhood,Camden,,so_listing,66.0,listing,,,,66,True,da_tinh
+2026-06-19,london,neighbourhood,Camden,,ty_le_nguyen_can,0.9090909090909091,ty_le_0_1,60,66,,66,True,da_tinh
+2026-06-19,london,neighbourhood,Camden,,gia_trung_vi_gbp,299.0,GBP/dem,,63,,63,True,da_tinh
+2026-06-19,london,neighbourhood,Camden,,gia_trung_vi_gbp_nguyen_can,320.0,GBP/dem,,57,,57,True,da_tinh
+2026-06-19,london,neighbourhood,City of London,,so_listing,12.0,listing,,,,12,True,da_tinh
+2026-06-19,london,neighbourhood,City of London,,ty_le_nguyen_can,1.0,ty_le_0_1,12,12,,12,True,da_tinh
+2026-06-19,london,neighbourhood,City of London,,gia_trung_vi_gbp,341.565,GBP/dem,,12,,12,True,da_tinh
+2026-06-19,london,neighbourhood,City of London,,gia_trung_vi_gbp_nguyen_can,341.565,GBP/dem,,12,,12,True,da_tinh
+2026-06-19,london,neighbourhood,Croydon,,so_listing,20.0,listing,,,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Croydon,,ty_le_nguyen_can,0.95,ty_le_0_1,19,20,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Croydon,,gia_trung_vi_gbp,142.565,GBP/dem,,18,,18,True,da_tinh
+2026-06-19,london,neighbourhood,Croydon,,gia_trung_vi_gbp_nguyen_can,145.53,GBP/dem,,17,,17,True,da_tinh
+2026-06-19,london,neighbourhood,Ealing,,so_listing,31.0,listing,,,,31,True,da_tinh
+2026-06-19,london,neighbourhood,Ealing,,ty_le_nguyen_can,0.8387096774193549,ty_le_0_1,26,31,,31,True,da_tinh
+2026-06-19,london,neighbourhood,Ealing,,gia_trung_vi_gbp,143.75,GBP/dem,,30,,30,True,da_tinh
+2026-06-19,london,neighbourhood,Ealing,,gia_trung_vi_gbp_nguyen_can,144.0,GBP/dem,,25,,25,True,da_tinh
+2026-06-19,london,neighbourhood,Enfield,,so_listing,13.0,listing,,,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Enfield,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Enfield,,gia_trung_vi_gbp,95.0,GBP/dem,,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Enfield,,gia_trung_vi_gbp_nguyen_can,139.33,GBP/dem,,9,,9,False,da_tinh
+2026-06-19,london,neighbourhood,Greenwich,,so_listing,19.0,listing,,,,19,True,da_tinh
+2026-06-19,london,neighbourhood,Greenwich,,ty_le_nguyen_can,0.8421052631578947,ty_le_0_1,16,19,,19,True,da_tinh
+2026-06-19,london,neighbourhood,Greenwich,,gia_trung_vi_gbp,199.5,GBP/dem,,19,,19,True,da_tinh
+2026-06-19,london,neighbourhood,Greenwich,,gia_trung_vi_gbp_nguyen_can,212.33499999999998,GBP/dem,,16,,16,True,da_tinh
+2026-06-19,london,neighbourhood,Hackney,,so_listing,51.0,listing,,,,51,True,da_tinh
+2026-06-19,london,neighbourhood,Hackney,,ty_le_nguyen_can,0.8235294117647058,ty_le_0_1,42,51,,51,True,da_tinh
+2026-06-19,london,neighbourhood,Hackney,,gia_trung_vi_gbp,191.385,GBP/dem,,50,,50,True,da_tinh
+2026-06-19,london,neighbourhood,Hackney,,gia_trung_vi_gbp_nguyen_can,201.0,GBP/dem,,41,,41,True,da_tinh
+2026-06-19,london,neighbourhood,Hammersmith and Fulham,,so_listing,39.0,listing,,,,39,True,da_tinh
+2026-06-19,london,neighbourhood,Hammersmith and Fulham,,ty_le_nguyen_can,0.8974358974358975,ty_le_0_1,35,39,,39,True,da_tinh
+2026-06-19,london,neighbourhood,Hammersmith and Fulham,,gia_trung_vi_gbp,245.0,GBP/dem,,39,,39,True,da_tinh
+2026-06-19,london,neighbourhood,Hammersmith and Fulham,,gia_trung_vi_gbp_nguyen_can,269.5,GBP/dem,,35,,35,True,da_tinh
+2026-06-19,london,neighbourhood,Haringey,,so_listing,21.0,listing,,,,21,True,da_tinh
+2026-06-19,london,neighbourhood,Haringey,,ty_le_nguyen_can,0.8095238095238095,ty_le_0_1,17,21,,21,True,da_tinh
+2026-06-19,london,neighbourhood,Haringey,,gia_trung_vi_gbp,187.59500000000003,GBP/dem,,20,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Haringey,,gia_trung_vi_gbp_nguyen_can,215.33499999999998,GBP/dem,,16,,16,True,da_tinh
+2026-06-19,london,neighbourhood,Harrow,,so_listing,4.0,listing,,,,4,False,da_tinh
+2026-06-19,london,neighbourhood,Harrow,,ty_le_nguyen_can,1.0,ty_le_0_1,4,4,,4,False,da_tinh
+2026-06-19,london,neighbourhood,Harrow,,gia_trung_vi_gbp,251.715,GBP/dem,,4,,4,False,da_tinh
+2026-06-19,london,neighbourhood,Harrow,,gia_trung_vi_gbp_nguyen_can,251.715,GBP/dem,,4,,4,False,da_tinh
+2026-06-19,london,neighbourhood,Havering,,so_listing,8.0,listing,,,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Havering,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Havering,,gia_trung_vi_gbp,96.5,GBP/dem,,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Havering,,gia_trung_vi_gbp_nguyen_can,110.0,GBP/dem,,7,,7,False,da_tinh
+2026-06-19,london,neighbourhood,Hillingdon,,so_listing,12.0,listing,,,,12,True,da_tinh
+2026-06-19,london,neighbourhood,Hillingdon,,ty_le_nguyen_can,0.8333333333333334,ty_le_0_1,10,12,,12,True,da_tinh
+2026-06-19,london,neighbourhood,Hillingdon,,gia_trung_vi_gbp,174.0,GBP/dem,,12,,12,True,da_tinh
+2026-06-19,london,neighbourhood,Hillingdon,,gia_trung_vi_gbp_nguyen_can,199.55,GBP/dem,,10,,10,True,da_tinh
+2026-06-19,london,neighbourhood,Hounslow,,so_listing,13.0,listing,,,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Hounslow,,ty_le_nguyen_can,0.6923076923076923,ty_le_0_1,9,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Hounslow,,gia_trung_vi_gbp,140.5,GBP/dem,,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Hounslow,,gia_trung_vi_gbp_nguyen_can,194.0,GBP/dem,,9,,9,False,da_tinh
+2026-06-19,london,neighbourhood,Islington,,so_listing,43.0,listing,,,,43,True,da_tinh
+2026-06-19,london,neighbourhood,Islington,,ty_le_nguyen_can,0.9534883720930233,ty_le_0_1,41,43,,43,True,da_tinh
+2026-06-19,london,neighbourhood,Islington,,gia_trung_vi_gbp,268.0,GBP/dem,,43,,43,True,da_tinh
+2026-06-19,london,neighbourhood,Islington,,gia_trung_vi_gbp_nguyen_can,270.0,GBP/dem,,41,,41,True,da_tinh
+2026-06-19,london,neighbourhood,Kensington and Chelsea,,so_listing,87.0,listing,,,,87,True,da_tinh
+2026-06-19,london,neighbourhood,Kensington and Chelsea,,ty_le_nguyen_can,0.9425287356321839,ty_le_0_1,82,87,,87,True,da_tinh
+2026-06-19,london,neighbourhood,Kensington and Chelsea,,gia_trung_vi_gbp,341.16499999999996,GBP/dem,,86,,86,True,da_tinh
+2026-06-19,london,neighbourhood,Kensington and Chelsea,,gia_trung_vi_gbp_nguyen_can,347.0,GBP/dem,,81,,81,True,da_tinh
+2026-06-19,london,neighbourhood,Kingston upon Thames,,so_listing,8.0,listing,,,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Kingston upon Thames,,ty_le_nguyen_can,0.875,ty_le_0_1,7,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Kingston upon Thames,,gia_trung_vi_gbp,230.75,GBP/dem,,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Kingston upon Thames,,gia_trung_vi_gbp_nguyen_can,296.75,GBP/dem,,7,,7,False,da_tinh
+2026-06-19,london,neighbourhood,Lambeth,,so_listing,40.0,listing,,,,40,True,da_tinh
+2026-06-19,london,neighbourhood,Lambeth,,ty_le_nguyen_can,0.85,ty_le_0_1,34,40,,40,True,da_tinh
+2026-06-19,london,neighbourhood,Lambeth,,gia_trung_vi_gbp,189.24,GBP/dem,,39,,39,True,da_tinh
+2026-06-19,london,neighbourhood,Lambeth,,gia_trung_vi_gbp_nguyen_can,242.0,GBP/dem,,33,,33,True,da_tinh
+2026-06-19,london,neighbourhood,Lewisham,,so_listing,21.0,listing,,,,21,True,da_tinh
+2026-06-19,london,neighbourhood,Lewisham,,ty_le_nguyen_can,0.8571428571428571,ty_le_0_1,18,21,,21,True,da_tinh
+2026-06-19,london,neighbourhood,Lewisham,,gia_trung_vi_gbp,172.0,GBP/dem,,20,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Lewisham,,gia_trung_vi_gbp_nguyen_can,209.0,GBP/dem,,17,,17,True,da_tinh
+2026-06-19,london,neighbourhood,Merton,,so_listing,14.0,listing,,,,14,True,da_tinh
+2026-06-19,london,neighbourhood,Merton,,ty_le_nguyen_can,0.7857142857142857,ty_le_0_1,11,14,,14,True,da_tinh
+2026-06-19,london,neighbourhood,Merton,,gia_trung_vi_gbp,228.33,GBP/dem,,13,,13,True,da_tinh
+2026-06-19,london,neighbourhood,Merton,,gia_trung_vi_gbp_nguyen_can,281.66499999999996,GBP/dem,,10,,10,True,da_tinh
+2026-06-19,london,neighbourhood,Newham,,so_listing,20.0,listing,,,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Newham,,ty_le_nguyen_can,0.85,ty_le_0_1,17,20,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Newham,,gia_trung_vi_gbp,225.215,GBP/dem,,20,,20,True,da_tinh
+2026-06-19,london,neighbourhood,Newham,,gia_trung_vi_gbp_nguyen_can,250.0,GBP/dem,,17,,17,True,da_tinh
+2026-06-19,london,neighbourhood,Redbridge,,so_listing,9.0,listing,,,,9,False,da_tinh
+2026-06-19,london,neighbourhood,Redbridge,,ty_le_nguyen_can,0.8888888888888888,ty_le_0_1,8,9,,9,False,da_tinh
+2026-06-19,london,neighbourhood,Redbridge,,gia_trung_vi_gbp,246.83,GBP/dem,,9,,9,False,da_tinh
+2026-06-19,london,neighbourhood,Redbridge,,gia_trung_vi_gbp_nguyen_can,293.915,GBP/dem,,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Richmond upon Thames,,so_listing,15.0,listing,,,,15,True,da_tinh
+2026-06-19,london,neighbourhood,Richmond upon Thames,,ty_le_nguyen_can,0.8,ty_le_0_1,12,15,,15,True,da_tinh
+2026-06-19,london,neighbourhood,Richmond upon Thames,,gia_trung_vi_gbp,226.0,GBP/dem,,15,,15,True,da_tinh
+2026-06-19,london,neighbourhood,Richmond upon Thames,,gia_trung_vi_gbp_nguyen_can,258.5,GBP/dem,,12,,12,True,da_tinh
+2026-06-19,london,neighbourhood,Southwark,,so_listing,45.0,listing,,,,45,True,da_tinh
+2026-06-19,london,neighbourhood,Southwark,,ty_le_nguyen_can,0.8222222222222222,ty_le_0_1,37,45,,45,True,da_tinh
+2026-06-19,london,neighbourhood,Southwark,,gia_trung_vi_gbp,188.83499999999998,GBP/dem,,44,,44,True,da_tinh
+2026-06-19,london,neighbourhood,Southwark,,gia_trung_vi_gbp_nguyen_can,224.16500000000002,GBP/dem,,36,,36,True,da_tinh
+2026-06-19,london,neighbourhood,Sutton,,so_listing,8.0,listing,,,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Sutton,,ty_le_nguyen_can,0.625,ty_le_0_1,5,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Sutton,,gia_trung_vi_gbp,121.425,GBP/dem,,8,,8,False,da_tinh
+2026-06-19,london,neighbourhood,Sutton,,gia_trung_vi_gbp_nguyen_can,187.5,GBP/dem,,5,,5,False,da_tinh
+2026-06-19,london,neighbourhood,Tower Hamlets,,so_listing,71.0,listing,,,,71,True,da_tinh
+2026-06-19,london,neighbourhood,Tower Hamlets,,ty_le_nguyen_can,0.8028169014084507,ty_le_0_1,57,71,,71,True,da_tinh
+2026-06-19,london,neighbourhood,Tower Hamlets,,gia_trung_vi_gbp,206.0,GBP/dem,,69,,69,True,da_tinh
+2026-06-19,london,neighbourhood,Tower Hamlets,,gia_trung_vi_gbp_nguyen_can,223.0,GBP/dem,,55,,55,True,da_tinh
+2026-06-19,london,neighbourhood,Waltham Forest,,so_listing,23.0,listing,,,,23,True,da_tinh
+2026-06-19,london,neighbourhood,Waltham Forest,,ty_le_nguyen_can,0.782608695652174,ty_le_0_1,18,23,,23,True,da_tinh
+2026-06-19,london,neighbourhood,Waltham Forest,,gia_trung_vi_gbp,195.75,GBP/dem,,23,,23,True,da_tinh
+2026-06-19,london,neighbourhood,Waltham Forest,,gia_trung_vi_gbp_nguyen_can,246.25,GBP/dem,,18,,18,True,da_tinh
+2026-06-19,london,neighbourhood,Wandsworth,,so_listing,56.0,listing,,,,56,True,da_tinh
+2026-06-19,london,neighbourhood,Wandsworth,,ty_le_nguyen_can,0.8214285714285714,ty_le_0_1,46,56,,56,True,da_tinh
+2026-06-19,london,neighbourhood,Wandsworth,,gia_trung_vi_gbp,212.0,GBP/dem,,55,,55,True,da_tinh
+2026-06-19,london,neighbourhood,Wandsworth,,gia_trung_vi_gbp_nguyen_can,267.0,GBP/dem,,45,,45,True,da_tinh
+2026-06-19,london,neighbourhood,Westminster,,so_listing,168.0,listing,,,,168,True,da_tinh
+2026-06-19,london,neighbourhood,Westminster,,ty_le_nguyen_can,0.9583333333333334,ty_le_0_1,161,168,,168,True,da_tinh
+2026-06-19,london,neighbourhood,Westminster,,gia_trung_vi_gbp,343.67,GBP/dem,,165,,165,True,da_tinh
+2026-06-19,london,neighbourhood,Westminster,,gia_trung_vi_gbp_nguyen_can,346.1,GBP/dem,,158,,158,True,da_tinh
+2026-06-19,london,analysis_area,A01,,so_listing,130.0,listing,,,,130,True,da_tinh
+2026-06-19,london,analysis_area,A01,,ty_le_nguyen_can,0.8615384615384616,ty_le_0_1,112,130,,130,True,da_tinh
+2026-06-19,london,analysis_area,A01,,gia_trung_vi_gbp,207.6,GBP/dem,,129,,129,True,da_tinh
+2026-06-19,london,analysis_area,A01,,gia_trung_vi_gbp_nguyen_can,237.0,GBP/dem,,111,,111,True,da_tinh
+2026-06-19,london,analysis_area,A02,,so_listing,125.0,listing,,,,125,True,da_tinh
+2026-06-19,london,analysis_area,A02,,ty_le_nguyen_can,0.888,ty_le_0_1,111,125,,125,True,da_tinh
+2026-06-19,london,analysis_area,A02,,gia_trung_vi_gbp,332.33,GBP/dem,,123,,123,True,da_tinh
+2026-06-19,london,analysis_area,A02,,gia_trung_vi_gbp_nguyen_can,347.2,GBP/dem,,109,,109,True,da_tinh
+2026-06-19,london,analysis_area,A03,,so_listing,121.0,listing,,,,121,True,da_tinh
+2026-06-19,london,analysis_area,A03,,ty_le_nguyen_can,0.8925619834710744,ty_le_0_1,108,121,,121,True,da_tinh
+2026-06-19,london,analysis_area,A03,,gia_trung_vi_gbp,201.43,GBP/dem,,119,,119,True,da_tinh
+2026-06-19,london,analysis_area,A03,,gia_trung_vi_gbp_nguyen_can,239.215,GBP/dem,,106,,106,True,da_tinh
+2026-06-19,london,analysis_area,A04,,so_listing,121.0,listing,,,,121,True,da_tinh
+2026-06-19,london,analysis_area,A04,,ty_le_nguyen_can,0.9256198347107438,ty_le_0_1,112,121,,121,True,da_tinh
+2026-06-19,london,analysis_area,A04,,gia_trung_vi_gbp,285.71500000000003,GBP/dem,,116,,116,True,da_tinh
+2026-06-19,london,analysis_area,A04,,gia_trung_vi_gbp_nguyen_can,297.0,GBP/dem,,107,,107,True,da_tinh
+2026-06-19,london,analysis_area,A05,,so_listing,125.0,listing,,,,125,True,da_tinh
+2026-06-19,london,analysis_area,A05,,ty_le_nguyen_can,0.848,ty_le_0_1,106,125,,125,True,da_tinh
+2026-06-19,london,analysis_area,A05,,gia_trung_vi_gbp,166.0,GBP/dem,,121,,121,True,da_tinh
+2026-06-19,london,analysis_area,A05,,gia_trung_vi_gbp_nguyen_can,182.33499999999998,GBP/dem,,102,,102,True,da_tinh
+2026-06-19,london,analysis_area,A06,,so_listing,122.0,listing,,,,122,True,da_tinh
+2026-06-19,london,analysis_area,A06,,ty_le_nguyen_can,0.8852459016393442,ty_le_0_1,108,122,,122,True,da_tinh
+2026-06-19,london,analysis_area,A06,,gia_trung_vi_gbp,268.33500000000004,GBP/dem,,120,,120,True,da_tinh
+2026-06-19,london,analysis_area,A06,,gia_trung_vi_gbp_nguyen_can,285.0,GBP/dem,,106,,106,True,da_tinh
+2026-06-19,london,analysis_area,A07,,so_listing,129.0,listing,,,,129,True,da_tinh
+2026-06-19,london,analysis_area,A07,,ty_le_nguyen_can,0.9147286821705426,ty_le_0_1,118,129,,129,True,da_tinh
+2026-06-19,london,analysis_area,A07,,gia_trung_vi_gbp,259.5,GBP/dem,,126,,126,True,da_tinh
+2026-06-19,london,analysis_area,A07,,gia_trung_vi_gbp_nguyen_can,284.0,GBP/dem,,115,,115,True,da_tinh
+2026-06-19,london,analysis_area,A08,,so_listing,127.0,listing,,,,127,True,da_tinh
+2026-06-19,london,analysis_area,A08,,ty_le_nguyen_can,0.7874015748031497,ty_le_0_1,100,127,,127,True,da_tinh
+2026-06-19,london,analysis_area,A08,,gia_trung_vi_gbp,191.16500000000002,GBP/dem,,126,,126,True,da_tinh
+2026-06-19,london,analysis_area,A08,,gia_trung_vi_gbp_nguyen_can,204.75,GBP/dem,,99,,99,True,da_tinh

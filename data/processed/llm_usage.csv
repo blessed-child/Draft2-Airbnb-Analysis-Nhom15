@@ -1,0 +1,12 @@
+thoi_diem,model,so_review,trang_thai,model_version,finish_reason,prompt_tokens,output_tokens,thinking_tokens,cached_tokens,total_tokens,so_giay
+2026-11-15T15:02:07Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,8989,8649,,,17638,33.033
+2026-11-15T15:02:40Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,9085,8690,,,17775,16.314
+2026-11-15T15:02:56Z,gemini-3.5-flash-lite,100,loi,,,,,,,,37.779
+2026-11-15T15:04:38Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,8865,8356,,5844,17221,25.157
+2026-11-15T15:05:04Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,8189,8589,,,16778,16.988
+2026-11-15T15:05:21Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,8080,8790,,,16870,26.198
+2026-11-15T15:05:47Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,8618,9254,,,17872,37.152
+2026-11-15T15:06:24Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,8933,8956,,,17889,17.0
+2026-11-15T15:06:41Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,9341,8215,,,17556,15.53
+2026-11-15T15:06:57Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,9442,8043,,,17485,15.362
+2026-11-15T15:07:12Z,gemini-3.5-flash-lite,100,thanh_cong,gemini-3.5-flash-lite,STOP,9103,8997,,,18100,16.634

@@ -1,0 +1,1001 @@
+review_id,sentiment,positive_aspects,negative_aspects,language
+2744638,positive,"[""không gian"", ""tiện nghi"", ""chủ nhà"", ""vị trí""]",[],en
+8691730,positive,"[""vị trí"", ""an toàn"", ""tiện nghi"", ""sạch sẽ"", ""không gian""]",[],en
+41614213,positive,"[""không gian"", ""tiện nghi"", ""vị trí""]",[],en
+50165358,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+50840265,positive,"[""không gian"", ""tiện nghi"", ""vị trí"", ""chủ nhà"", ""độ ồn""]",[],en
+58287052,positive,"[""tiện nghi"", ""độ ồn"", ""vị trí"", ""không gian""]",[],en
+933172631705104049,positive,"[""không gian"", ""tiện nghi""]",[],en
+423510420,mixed,"[""không gian""]","[""tiện nghi""]",en
+388901659382576410,positive,"[""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+995525868887328518,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""độ ồn"", ""an toàn"", ""không gian""]",[],en
+4561462,positive,"[""độ ồn"", ""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+5839918,mixed,"[""vị trí"", ""không gian""]","[""tiện nghi"", ""độ ồn""]",en
+15430599,positive,"[""sạch sẽ"", ""không gian"", ""vị trí""]",[],en
+18368337,mixed,"[""sạch sẽ"", ""tiện nghi"", ""chủ nhà"", ""vị trí""]","[""không gian""]",en
+4802327,positive,"[""vị trí"", ""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+6533378,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""tiện nghi"", ""vị trí""]",[],en
+14929563,positive,"[""chủ nhà"", ""độ ồn"", ""sạch sẽ"", ""không gian""]",[],en
+59065262,positive,"[""chủ nhà"", ""tiện nghi""]",[],en
+256621652,positive,"[""chủ nhà"", ""không gian"", ""tiện nghi""]",[],en
+614221957,positive,"[""không gian"", ""độ ồn"", ""tiện nghi"", ""vị trí"", ""an toàn"", ""sạch sẽ"", ""chủ nhà""]",[],en
+15570056,positive,"[""chủ nhà"", ""độ ồn"", ""sạch sẽ"", ""vị trí""]",[],en
+19767273,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+25199072,positive,"[""chủ nhà"", ""không gian"", ""tiện nghi"", ""vị trí""]",[],en
+53966553,positive,"[""vị trí"", ""tiện nghi"", ""độ ồn"", ""không gian""]",[],en
+54266889,positive,"[""vị trí"", ""sạch sẽ"", ""không gian"", ""chủ nhà""]",[],en
+96085894,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+56807631,positive,"[""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+430959083,positive,"[""không gian"", ""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+63880856,positive,"[""tiện nghi"", ""không gian"", ""chủ nhà""]",[],en
+247659288,mixed,"[""vị trí"", ""không gian"", ""chủ nhà""]","[""tiện nghi""]",en
+723285254,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+724324810,positive,"[""vị trí"", ""tiện nghi"", ""chủ nhà"", ""giá trị""]",[],en
+754596848,mixed,"[""sạch sẽ"", ""chủ nhà""]","[""tiện nghi""]",en
+704233866209045246,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+727324567826687627,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+787534990477995080,positive,"[""không gian"", ""chủ nhà""]",[],en
+867288006864205418,mixed,"[""không gian"", ""chủ nhà""]","[""sạch sẽ"", ""tiện nghi""]",en
+1384733808868417561,positive,"[""sạch sẽ"", ""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+9115816,positive,"[""chủ nhà""]",[],en
+184763964,positive,"[""không gian"", ""sạch sẽ"", ""tiện nghi"", ""vị trí""]",[],en
+969400502798551154,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+1005706272835837674,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí""]",[],en
+1043374469929326971,positive,"[""chủ nhà"", ""tiện nghi"", ""sạch sẽ"", ""vị trí""]",[],en
+1131109039378337720,positive,"[""chủ nhà""]",[],en
+1191236010396158912,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""tiện nghi""]",[],en
+22234273,positive,"[""chủ nhà"", ""vị trí"", ""tiện nghi""]",[],en
+23893464,positive,"[""không gian"", ""tiện nghi""]",[],en
+30440121,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+122377032,positive,"[""vị trí"", ""không gian"", ""giá trị""]",[],en
+14938074,positive,"[""chủ nhà"", ""vị trí""]",[],en
+20554197,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí"", ""không gian""]",[],en
+22937669,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+264943652,positive,"[""vị trí"", ""sạch sẽ"", ""không gian"", ""chủ nhà""]",[],en
+551321073,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi""]",[],en
+630237699685332647,positive,"[""không gian"", ""chủ nhà""]",[],en
+632379767029092303,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ""]",[],en
+912154591387183141,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+922377205381369824,positive,"[""chủ nhà"", ""vị trí""]",[],en
+991915728640690814,positive,"[""không gian"", ""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+1215816192969610677,positive,"[""không gian"", ""chủ nhà"", ""vị trí""]",[],en
+1439851812180648857,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi"", ""độ ồn"", ""an toàn"", ""không gian""]",[],en
+1502123323466395657,positive,"[""không gian"", ""độ ồn"", ""chủ nhà""]",[],en
+44489998,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+704862007284686212,positive,"[""vị trí"", ""tiện nghi""]",[],en
+1442005454238123546,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+26077967,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+111447603,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+180495652,positive,"[""không gian""]",[],en
+680957025920500232,positive,"[""không gian"", ""vị trí""]",[],en
+718644705407685558,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+76535844,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""vị trí""]",[],en
+120904386,positive,"[""không gian"", ""vị trí""]",[],en
+1112227352676238807,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+47691555,positive,"[""không gian"", ""vị trí""]",[],en
+57767858,positive,"[""vị trí"", ""chủ nhà"", ""sạch sẽ"", ""tiện nghi""]",[],en
+99273770,mixed,"[""không gian"", ""chủ nhà""]","[""tiện nghi""]",en
+102256580,positive,"[""không gian"", ""độ ồn"", ""an toàn"", ""vị trí"", ""chủ nhà""]",[],en
+161271079,positive,"[""độ ồn"", ""vị trí"", ""không gian"", ""sạch sẽ"", ""tiện nghi""]",[],en
+211543407,positive,"[""vị trí""]",[],en
+289462471,positive,"[""vị trí"", ""độ ồn""]",[],en
+334087245,positive,"[""không gian"", ""vị trí""]",[],en
+617601810,positive,"[""độ ồn"", ""vị trí"", ""tiện nghi""]",[],en
+412121311507380820,positive,"[""an toàn"", ""vị trí"", ""tiện nghi"", ""không gian"", ""chủ nhà""]",[],en
+425837868656567246,positive,"[""không gian"", ""vị trí""]",[],en
+551258594007142864,positive,"[""chủ nhà""]",[],en
+884174777302075595,positive,"[""chủ nhà"", ""vị trí"", ""không gian""]",[],en
+1299197412636285598,positive,"[""vị trí"", ""độ ồn"", ""không gian"", ""chủ nhà""]",[],en
+1309400895446625979,positive,"[""vị trí"", ""không gian"", ""tiện nghi""]",[],en
+1455030192296763510,positive,"[""không gian"", ""chủ nhà""]",[],en
+11306333,positive,"[""không gian"", ""an toàn"", ""chủ nhà""]",[],en
+464261502574150934,positive,"[""không gian"", ""sạch sẽ"", ""chủ nhà""]",[],en
+794854696696570558,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+462818760,positive,"[""vị trí"", ""độ ồn"", ""không gian"", ""chủ nhà""]",[],en
+394006795942648009,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""vị trí"", ""độ ồn""]",[],en
+480268801915122408,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ""]",[],en
+581686569145459779,positive,"[""độ ồn"", ""chủ nhà""]",[],en
+1414517329671595688,positive,"[""chủ nhà"", ""không gian""]",[],en
+1476118901875950265,positive,"[""chủ nhà""]",[],en
+243851407,positive,"[""vị trí"", ""sạch sẽ"", ""không gian""]",[],en
+556705806,positive,"[""vị trí"", ""an toàn"", ""chủ nhà""]",[],en
+708522353010916492,positive,"[""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+467881597,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+424426280036474208,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+540308709,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+648313547704149889,positive,"[""vị trí"", ""giá trị""]",[],en
+29327221,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+82095740,mixed,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]","[""tiện nghi""]",en
+44974482,positive,"[""chủ nhà"", ""không gian""]",[],en
+907133364576302492,positive,"[""chủ nhà"", ""không gian""]",[],en
+1436929372723789650,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+317488222,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+509276337,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+89735981,mixed,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]","[""tiện nghi""]",en
+155388967,positive,"[""vị trí"", ""không gian""]",[],en
+173228160,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+499893289,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+1155046215977336149,positive,"[""chủ nhà"", ""không gian""]",[],en
+1219441406192948294,positive,"[""vị trí"", ""không gian""]",[],en
+1400701291313026156,positive,"[""vị trí"", ""không gian""]",[],en
+37096079,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+61246797,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+514600858,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+708551155077483427,mixed,"[""vị trí""]","[""độ ồn""]",en
+68067512,mixed,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]","[""tiện nghi""]",en
+72877781,mixed,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]","[""tiện nghi""]",en
+90499860,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+96686409,positive,"[""vị trí"", ""sạch sẽ"", ""độ ồn"", ""không gian""]",[],en
+104995213,positive,"[""vị trí"", ""chủ nhà""]",[],en
+357002404,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+619595566,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""an toàn"", ""không gian""]",[],en
+182400250,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""an toàn"", ""không gian""]",[],en
+286996114,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn""]",[],en
+47259309,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+87780240,positive,"[""chủ nhà"", ""không gian""]",[],en
+345494665,positive,"[""vị trí""]",[],en
+652019532086295188,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+653429505130785528,mixed,"[""tiện nghi""]","[""vị trí""]",en
+796246331187081136,positive,"[""vị trí"", ""giá trị"", ""tiện nghi"", ""không gian""]",[],en
+1272370546470726285,positive,"[""chủ nhà""]",[],en
+162078214,positive,"[""vị trí"", ""giá trị"", ""chủ nhà"", ""an toàn"", ""không gian""]",[],en
+225749955,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+442423535,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+585298996466728985,positive,"[""vị trí"", ""sạch sẽ"", ""độ ồn""]",[],en
+829597832100482401,mixed,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn""]","[""tiện nghi""]",en
+1409431400479237188,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+1502172916016504353,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+221695582,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""an toàn"", ""không gian""]",[],en
+359151496,positive,"[""vị trí"", ""chủ nhà""]",[],en
+470759689291370121,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+668718266602944132,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+699139142957720871,positive,"[""vị trí"", ""không gian""]",[],en
+47264814,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+791163400615730326,positive,"[""vị trí"", ""giá trị"", ""tiện nghi"", ""không gian""]",[],en
+931062631343371870,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+953479741717741059,positive,"[""vị trí"", ""sạch sẽ"", ""giá trị"", ""tiện nghi"", ""không gian""]",[],en
+1110847670312518417,positive,"[""sạch sẽ"", ""không gian""]",[],en
+1254295224174289704,positive,"[""vị trí"", ""sạch sẽ"", ""giá trị"", ""tiện nghi""]",[],en
+1422377977967064039,mixed,"[""giá trị"", ""tiện nghi"", ""không gian""]","[""sạch sẽ""]",en
+1505038407042166782,positive,"[""vị trí"", ""an toàn"", ""không gian""]",[],en
+899194643203736018,positive,"[""vị trí""]",[],en
+54508609,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+57024872,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+215049878,positive,"[""vị trí"", ""không gian""]",[],en
+454427978,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+467451806,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+591985021,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+760544175,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+539724707239529382,positive,"[""vị trí"", ""giá trị""]",[],en
+569351503700345542,positive,"[""vị trí"", ""không gian""]",[],en
+719368835973924513,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+804984213193248345,positive,"[""vị trí"", ""không gian""]",[],en
+1016571080359255316,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+1054963393664963312,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1294895637397013452,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1486896524288278197,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+64050439,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+260322160,positive,"[""chủ nhà""]",[],en
+764717334,positive,"[""chủ nhà""]",[],en
+1297080304247454167,positive,"[""không gian""]",[],en
+438142639254557042,mixed,"[""vị trí"", ""tiện nghi""]","[""tiện nghi""]",en
+474384553593183300,positive,"[""vị trí"", ""chủ nhà""]",[],en
+707748681932237436,positive,"[""vị trí"", ""tiện nghi""]",[],en
+927394127373931636,mixed,"[""vị trí"", ""sạch sẽ"", ""không gian""]","[""tiện nghi""]",en
+1342716870444530079,mixed,"[""vị trí"", ""tiện nghi"", ""không gian""]","[""tiện nghi""]",en
+1238309966639336666,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1365245700968490074,positive,"[""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+81090249,positive,"[""chủ nhà""]",[],en
+96032641,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+82747836,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+256186236,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+482458372894080965,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+622309196736698026,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+73295438,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+77270101,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+185198343,positive,"[""không gian""]",[],en
+551569774,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+994797743446691150,positive,"[""chủ nhà"", ""tiện nghi""]",[],en
+1401401559473116836,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+115262026,mixed,"[""vị trí""]","[""tiện nghi""]",en
+131206393,positive,"[""vị trí"", ""chủ nhà""]",[],en
+155535400,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+179804578,positive,"[""vị trí"", ""giá trị""]",[],en
+357959784,positive,"[""vị trí"", ""không gian""]",[],en
+505319356,mixed,"[""chủ nhà"", ""vị trí""]","[""không gian""]",en
+521912075,positive,"[""chủ nhà"", ""vị trí"", ""sạch sẽ"", ""giá trị""]",[],en
+440403463483133660,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+526672121938779496,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+607739753873020525,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+655595055920510686,positive,"[""vị trí""]",[],en
+697661785536704083,positive,"[""không gian"", ""vị trí""]",[],en
+781772098158071242,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+855707545422207395,negative,[],"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""sạch sẽ""]",en
+931054647513731967,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+1143405240531864183,positive,"[""sạch sẽ"", ""vị trí"", ""giá trị""]",[],en
+1228931287978216153,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+1363075283004670822,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""vị trí"", ""an toàn""]",[],en
+434617275531686952,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1057191009145828709,positive,"[""tiện nghi"", ""vị trí""]",[],en
+1230374928645093864,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí"", ""không gian""]",[],en
+1499299428456873501,positive,"[""vị trí"", ""độ ồn"", ""tiện nghi""]",[],en
+93410468,positive,"[""vị trí"", ""độ ồn"", ""chủ nhà""]",[],en
+106364732,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1043349632693757597,positive,"[""sạch sẽ"", ""tiện nghi"", ""vị trí"", ""chủ nhà""]",[],en
+1500019693038832163,positive,"[""vị trí""]",[],en
+172283976,positive,"[""chủ nhà""]",[],en
+187579225,positive,"[""không gian"", ""sạch sẽ"", ""độ ồn"", ""vị trí"", ""chủ nhà""]",[],en
+450836244,positive,"[""sạch sẽ""]",[],en
+485325524284401396,positive,"[""chủ nhà"", ""vị trí"", ""an toàn""]",[],en
+621517665495348083,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+1016534355683818084,positive,"[""chủ nhà"", ""giá trị""]",[],en
+1028128708737333631,positive,[],[],en
+1031781641455631903,positive,"[""chủ nhà"", ""vị trí"", ""độ ồn""]",[],en
+1102090945858158412,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1226768876823583880,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1343505134576304834,mixed,"[""chủ nhà"", ""tiện nghi""]",[],en
+1374582445118222870,positive,"[""chủ nhà"", ""vị trí""]",[],en
+160752012,positive,[],[],en
+268253021,positive,"[""vị trí"", ""chủ nhà""]",[],en
+464985244705249459,positive,"[""tiện nghi"", ""chủ nhà""]",[],en
+572295635165711621,positive,"[""không gian"", ""vị trí""]",[],en
+1124562280447327479,positive,"[""không gian"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà"", ""vị trí""]",[],en
+1147019197155218181,positive,"[""vị trí""]",[],en
+912198100460741268,positive,"[""vị trí"", ""không gian"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1455106083695206312,positive,"[""an toàn"", ""vị trí"", ""tiện nghi""]",[],en
+188114999,positive,"[""vị trí"", ""tiện nghi""]",[],en
+103255211,mixed,"[""vị trí"", ""chủ nhà"", ""sạch sẽ"", ""tiện nghi"", ""giá trị"", ""độ ồn""]",[],en
+316553880,positive,"[""vị trí"", ""giá trị""]",[],en
+449746782,positive,"[""vị trí""]",[],en
+717847753,positive,"[""vị trí""]",[],en
+681765980511058854,mixed,"[""vị trí""]","[""độ ồn""]",en
+757154931272610195,mixed,"[""vị trí""]","[""tiện nghi""]",en
+967943586235886033,positive,"[""tiện nghi"", ""vị trí""]",[],en
+160479440,negative,[],"[""sạch sẽ""]",en
+250768181,positive,"[""vị trí"", ""độ ồn"", ""sạch sẽ""]",[],en
+312742298,positive,"[""chủ nhà""]",[],en
+316453988,positive,[],[],en
+523338250,positive,"[""vị trí"", ""chủ nhà""]",[],en
+552756026699247319,positive,"[""vị trí""]",[],en
+754916042989714160,positive,"[""chủ nhà"", ""vị trí""]",[],en
+807843989997154745,positive,"[""vị trí""]",[],en
+1007836224124589075,positive,"[""vị trí"", ""độ ồn"", ""tiện nghi"", ""giá trị""]",[],en
+1096344423445779340,positive,"[""vị trí"", ""độ ồn"", ""chủ nhà""]",[],en
+1131738020684298342,positive,"[""vị trí""]",[],en
+1197003250402160200,positive,"[""sạch sẽ"", ""vị trí""]",[],en
+860702300655344730,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1082553294863856513,positive,"[""chủ nhà"", ""độ ồn""]",[],en
+1113000828433379009,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+1286927690196507138,positive,"[""chủ nhà"", ""sạch sẽ"", ""an toàn""]",[],en
+1352836505775625469,positive,"[""chủ nhà""]",[],en
+1412288450559451345,positive,"[""chủ nhà""]",[],en
+1002013743451735982,positive,"[""vị trí"", ""độ ồn"", ""chủ nhà""]",[],en
+1342776838035546728,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+160069935,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+182384686,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí""]",[],en
+324915464,positive,"[""vị trí"", ""chủ nhà""]",[],en
+152783635,positive,"[""chủ nhà""]",[],en
+226938100,positive,"[""chủ nhà"", ""không gian""]",[],en
+237802473,positive,"[""an toàn"", ""sạch sẽ"", ""không gian"", ""chủ nhà""]",[],en
+251690794,positive,"[""không gian"", ""giá trị""]",[],en
+352986893,positive,"[""không gian"", ""chủ nhà""]",[],en
+435685595,positive,"[""chủ nhà"", ""không gian""]",[],en
+502148691,positive,"[""sạch sẽ"", ""không gian"", ""an toàn"", ""chủ nhà""]",[],en
+715513495,positive,"[""chủ nhà"", ""không gian""]",[],en
+391095203671687978,mixed,"[""sạch sẽ"", ""độ ồn"", ""không gian""]","[""tiện nghi""]",en
+647664996891660936,positive,"[""sạch sẽ"", ""tiện nghi"", ""vị trí""]",[],en
+727318576248885187,positive,"[""sạch sẽ"", ""độ ồn""]",[],en
+788273389063022133,positive,"[""chủ nhà""]",[],en
+875215742726189009,positive,"[""sạch sẽ"", ""chủ nhà"", ""giá trị"", ""vị trí""]",[],en
+926659155218303206,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1407881879505402510,positive,"[""chủ nhà"", ""vị trí""]",[],en
+140878711,positive,"[""tiện nghi"", ""không gian""]",[],en
+267700302,positive,"[""không gian"", ""chủ nhà""]",[],en
+1087607344673972600,positive,"[""chủ nhà""]",[],en
+1201321441941958679,mixed,"[""không gian"", ""chủ nhà""]","[""tiện nghi""]",en
+1408722339154963077,positive,"[""sạch sẽ"", ""tiện nghi""]",[],en
+1440571408565070159,positive,"[""chủ nhà""]",[],en
+252370957,positive,"[""sạch sẽ"", ""không gian"", ""chủ nhà"", ""vị trí""]",[],en
+494001056,positive,"[""sạch sẽ"", ""vị trí"", ""giá trị"", ""chủ nhà""]",[],en
+563601845,mixed,"[""vị trí"", ""chủ nhà""]","[""tiện nghi""]",en
+570098142383796038,positive,"[""vị trí"", ""sạch sẽ"", ""không gian"", ""chủ nhà""]",[],en
+593316606785433651,positive,"[""không gian"", ""vị trí"", ""chủ nhà"", ""giá trị""]",[],en
+627344685457629626,negative,[],"[""tiện nghi""]",en
+641130689010270819,positive,"[""không gian"", ""vị trí""]",[],en
+715065207132763259,positive,"[""chủ nhà"", ""giá trị"", ""vị trí"", ""tiện nghi""]",[],en
+756443232337159511,positive,"[""chủ nhà"", ""vị trí"", ""không gian""]",[],en
+759341409100914336,positive,"[""tiện nghi"", ""không gian"", ""vị trí""]",[],en
+899129077094230742,positive,"[""không gian"", ""vị trí"", ""sạch sẽ"", ""độ ồn"", ""tiện nghi"", ""chủ nhà""]",[],en
+966526029330539602,positive,"[""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+974514430278075383,positive,"[""không gian"", ""tiện nghi"", ""vị trí"", ""chủ nhà""]",[],en
+1262276388874516316,positive,"[""không gian"", ""chủ nhà"", ""vị trí"", ""tiện nghi"", ""giá trị""]",[],en
+1493464760716232259,positive,"[""không gian"", ""sạch sẽ"", ""chủ nhà"", ""vị trí""]",[],en
+202679676,positive,"[""chủ nhà"", ""tiện nghi""]",[],en
+208882698,positive,"[""chủ nhà"", ""vị trí""]",[],en
+231476029,positive,"[""chủ nhà"", ""tiện nghi""]",[],en
+251670813,positive,"[""chủ nhà"", ""tiện nghi"", ""độ ồn"", ""vị trí""]",[],en
+560277071,positive,"[""tiện nghi"", ""chủ nhà""]",[],en
+893333550282169338,positive,"[""không gian"", ""tiện nghi""]",[],en
+1026022061843478382,positive,"[""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""vị trí""]",[],en
+1105779077190757144,positive,"[""chủ nhà"", ""không gian""]",[],en
+1139081174096319971,positive,"[""không gian"", ""chủ nhà""]",[],en
+1162959530321074129,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+1216641022927030062,positive,"[""chủ nhà"", ""không gian""]",[],en
+1254231437573390212,positive,"[""chủ nhà"", ""độ ồn"", ""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+1408627559207150194,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+212355136,positive,"[""vị trí"", ""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+146960537,positive,"[""sạch sẽ"", ""không gian"", ""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+341264729,positive,"[""không gian"", ""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+432902929,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+443144907,mixed,"[""vị trí"", ""tiện nghi"", ""không gian""]","[""sạch sẽ""]",en
+485774857,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+541532567,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+598578653,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+438719776,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi"", ""vị trí"", ""an toàn""]",[],en
+604131669363768490,positive,"[""sạch sẽ"", ""tiện nghi"", ""vị trí"", ""chủ nhà""]",[],en
+1460904212345414686,positive,"[""chủ nhà"", ""vị trí""]",[],en
+407170131,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+541095575408080493,mixed,"[""vị trí"", ""không gian"", ""sạch sẽ"", ""tiện nghi""]","[""tiện nghi""]",en
+1425367822162771708,positive,"[""chủ nhà"", ""vị trí"", ""độ ồn"", ""sạch sẽ"", ""tiện nghi""]",[],en
+993347034162564575,positive,"[""không gian"", ""vị trí"", ""tiện nghi""]",[],en
+406919709,positive,"[""không gian"", ""chủ nhà""]",[],en
+461373330,positive,"[""vị trí"", ""tiện nghi""]",[],en
+671519645,positive,"[""không gian"", ""chủ nhà""]",[],en
+764321694472533505,positive,"[""chủ nhà""]",[],en
+987604452395051259,positive,"[""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+910712374785750035,positive,"[""vị trí"", ""tiện nghi"", ""sạch sẽ"", ""không gian""]",[],en
+317471389,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi""]",[],en
+319858290,positive,"[""tiện nghi"", ""sạch sẽ"", ""vị trí""]",[],en
+200382406,positive,"[""vị trí""]",[],en
+204947427,positive,"[""vị trí"", ""chủ nhà""]",[],en
+454504548,positive,"[""vị trí"", ""tiện nghi""]",[],en
+322966978,positive,"[""sạch sẽ"", ""vị trí""]",[],en
+564662796,positive,"[""chủ nhà"", ""vị trí""]",[],en
+344844134,positive,"[""vị trí""]",[],en
+319849505,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+333326846,positive,"[""sạch sẽ"", ""tiện nghi""]",[],en
+347346226,positive,"[""không gian"", ""chủ nhà"", ""vị trí""]",[],en
+529976684,positive,"[""chủ nhà""]",[],en
+581275277,positive,"[""vị trí""]",[],en
+586803129,positive,"[""vị trí""]",[],en
+510684605293066962,positive,"[""không gian"", ""chủ nhà""]",[],en
+522279532908022912,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+583131244846912883,mixed,"[""chủ nhà"", ""vị trí""]","[""sạch sẽ""]",en
+686775145543011705,positive,"[""không gian"", ""tiện nghi"", ""vị trí""]",[],en
+751993006695922721,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+754205346873850071,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1073806328348005459,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+1213639801119024558,mixed,"[""vị trí"", ""chủ nhà""]","[""không gian""]",en
+1244126135240917165,positive,"[""chủ nhà""]",[],en
+1268752840543392778,positive,"[""vị trí"", ""không gian"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1353605921812072009,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi""]",[],en
+1376073990796059414,positive,"[""chủ nhà"", ""vị trí"", ""an toàn""]",[],en
+1439148421686558780,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí"", ""an toàn""]",[],en
+484748480,positive,"[""không gian"", ""tiện nghi"", ""vị trí"", ""chủ nhà""]",[],en
+415322539,positive,"[""chủ nhà""]",[],en
+421401868,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi"", ""vị trí""]",[],en
+623736847472479865,positive,"[""chủ nhà"", ""tiện nghi"", ""sạch sẽ"", ""độ ồn"", ""vị trí""]",[],en
+791897762040738140,positive,"[""chủ nhà""]",[],en
+400840957,positive,"[""vị trí""]",[],en
+447321814,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+481644732,positive,"[""vị trí"", ""tiện nghi""]",[],en
+648777827,positive,"[""không gian"", ""tiện nghi"", ""vị trí""]",[],en
+432346968446119963,positive,"[""vị trí"", ""chủ nhà""]",[],en
+292543518,positive,"[""chủ nhà"", ""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""không gian"", ""giá trị""]",[],en
+586778189286164450,positive,"[""chủ nhà"", ""vị trí""]",[],en
+769177260,positive,"[""sạch sẽ"", ""tiện nghi""]",[],en
+1236217252201676124,positive,"[""tiện nghi"", ""chủ nhà""]",[],en
+450539475975222733,mixed,"[""sạch sẽ"", ""vị trí""]","[""tiện nghi""]",en
+722329524021599269,positive,"[""vị trí""]",[],en
+1241278048559644439,positive,"[""vị trí"", ""không gian"", ""sạch sẽ"", ""chủ nhà""]",[],en
+368109173,positive,"[""sạch sẽ"", ""vị trí""]",[],en
+799827702469358685,positive,"[""tiện nghi"", ""vị trí""]",[],en
+276671161,positive,"[""tiện nghi"", ""độ ồn"", ""vị trí""]",[],en
+666724567,positive,"[""vị trí"", ""sạch sẽ"", ""độ ồn"", ""tiện nghi""]",[],en
+1109403252431850874,positive,"[""sạch sẽ"", ""không gian"", ""chủ nhà"", ""vị trí""]",[],en
+1261572022709745727,positive,"[""tiện nghi"", ""chủ nhà""]",[],en
+1494933246371572694,positive,"[""vị trí""]",[],en
+327137297,positive,"[""chủ nhà"", ""không gian"", ""tiện nghi"", ""an toàn"", ""vị trí""]",[],en
+960698474356255370,positive,"[""chủ nhà"", ""không gian"", ""tiện nghi""]",[],en
+266681605,positive,"[""chủ nhà"", ""không gian"", ""độ ồn"", ""vị trí"", ""tiện nghi""]",[],en
+876628087472490172,positive,"[""vị trí""]",[],en
+982539880397726014,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1376047824189668729,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+1399290447872426967,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1449234719463383072,positive,"[""vị trí"", ""tiện nghi"", ""sạch sẽ""]",[],en
+1480440673011252057,positive,"[""chủ nhà"", ""vị trí""]",[],en
+417803740,mixed,"[""chủ nhà"", ""sạch sẽ"", ""vị trí""]","[""độ ồn""]",en
+915078643244158836,positive,"[""sạch sẽ"", ""không gian"", ""tiện nghi"", ""vị trí""]",[],en
+1113694112689204584,mixed,"[""sạch sẽ"", ""tiện nghi"", ""vị trí"", ""chủ nhà""]","[""không gian"", ""độ ồn""]",en
+1267331088530193643,positive,"[""chủ nhà"", ""vị trí"", ""an toàn""]",[],en
+314672443,positive,"[""vị trí"", ""không gian""]",[],en
+668550070,positive,"[""vị trí"", ""chủ nhà""]",[],en
+425154772486635992,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+426518382,mixed,"[""sạch sẽ""]","[""tiện nghi""]",en
+891148113539437654,positive,"[""giá trị"", ""sạch sẽ"", ""không gian"", ""vị trí""]",[],en
+1462989743271337520,positive,"[""chủ nhà"", ""không gian"", ""tiện nghi""]",[],en
+527634937,mixed,"[""chủ nhà"", ""sạch sẽ""]","[""độ ồn"", ""tiện nghi""]",en
+1494233749211543445,mixed,"[""không gian"", ""an toàn"", ""giá trị""]","[""độ ồn""]",en
+637543465861848297,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],de
+915094991976293163,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1391254756516960252,positive,"[""vị trí""]",[],en
+1157854210055452853,positive,"[""vị trí"", ""chủ nhà""]",[],en
+443931422884810263,mixed,"[""chủ nhà"", ""không gian"", ""vị trí""]","[""giá trị""]",en
+747641698569725921,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+413880953,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+428534336,positive,"[""không gian"", ""sạch sẽ""]",[],en
+579739853,positive,"[""vị trí"", ""an toàn"", ""chủ nhà""]",[],en
+763012621,positive,[],[],en
+393247765923516840,positive,"[""chủ nhà""]",[],en
+573722633609969990,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+933974481964336494,positive,"[""chủ nhà"", ""vị trí"", ""không gian""]",[],en
+1315969772211977776,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+331683317,mixed,"[""vị trí""]","[""không gian""]",en
+485598304,positive,"[""không gian"", ""vị trí""]",[],en
+559504693,mixed,"[""sạch sẽ"", ""vị trí""]","[""độ ồn""]",en
+563898110,positive,"[""sạch sẽ"", ""an toàn"", ""chủ nhà""]",[],en
+614779388,positive,"[""không gian"", ""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+627336421848169004,negative,[],"[""tiện nghi"", ""giá trị"", ""không gian""]",en
+713608454409290805,positive,"[""chủ nhà"", ""vị trí""]",[],en
+773050036431233241,positive,"[""chủ nhà"", ""vị trí""]",[],en
+886074039672411475,positive,"[""chủ nhà"", ""vị trí""]",[],en
+962198835690778751,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""vị trí""]",[],en
+1268114526184004854,positive,"[""sạch sẽ"", ""an toàn"", ""vị trí"", ""chủ nhà""]",[],en
+1486880434022528924,positive,"[""chủ nhà"", ""vị trí""]",[],en
+793400589350941944,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+929578094015375390,positive,"[""không gian"", ""chủ nhà""]",[],en
+656894915,positive,"[""sạch sẽ"", ""vị trí"", ""an toàn"", ""chủ nhà""]",[],en
+1396318791463777513,mixed,"[""chủ nhà"", ""vị trí""]","[""không gian""]",en
+1457175765319385882,mixed,"[""không gian""]","[""không gian""]",en
+603456311,positive,"[""không gian"", ""chủ nhà"", ""tiện nghi""]",[],en
+718723875833134175,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1327577258376044073,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+427992691,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí"", ""an toàn""]",[],en
+448407607,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""vị trí"", ""tiện nghi""]",[],en
+565210242,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+759263938404093922,positive,"[""không gian"", ""vị trí"", ""giá trị"", ""chủ nhà""]",[],en
+828159488540052848,positive,"[""chủ nhà"", ""không gian""]",[],en
+1012908788507699299,positive,"[""chủ nhà"", ""vị trí"", ""không gian"", ""tiện nghi"", ""độ ồn""]",[],en
+1049262569766282734,positive,"[""sạch sẽ"", ""không gian"", ""vị trí"", ""an toàn"", ""chủ nhà""]",[],en
+1144876556457408551,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ""]",[],en
+1411558139182359587,positive,"[""không gian"", ""vị trí"", ""tiện nghi""]",[],en
+1458617838832234225,positive,"[""tiện nghi"", ""chủ nhà"", ""vị trí""]",[],en
+549781212,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+418108171,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+936787352935379842,mixed,"[""vị trí"", ""chủ nhà""]","[""sạch sẽ"", ""độ ồn""]",en
+1379655484865776453,positive,"[""vị trí"", ""tiện nghi""]",[],en
+586948169,mixed,"[""vị trí"", ""không gian"", ""chủ nhà""]","[""tiện nghi""]",en
+596012789,positive,"[""không gian"", ""chủ nhà"", ""vị trí""]",[],en
+767700092,mixed,"[""không gian"", ""vị trí"", ""chủ nhà""]","[""độ ồn""]",en
+570882725331200921,positive,"[""chủ nhà"", ""tiện nghi""]","[""độ ồn""]",en
+997017578839214600,positive,"[""vị trí"", ""không gian""]",[],en
+1041938140283421618,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1307258139483832554,mixed,"[""sạch sẽ"", ""vị trí""]","[""độ ồn""]",en
+612114442173418346,positive,"[""không gian"", ""vị trí""]",[],en
+862847842191573682,positive,"[""không gian"", ""chủ nhà"", ""giá trị""]",[],en
+905625803933484023,mixed,"[""sạch sẽ"", ""không gian"", ""chủ nhà""]","[""độ ồn""]",en
+926693387587666812,positive,"[""sạch sẽ"", ""vị trí"", ""giá trị""]",[],en
+1432615747444765930,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí""]",[],en
+887579294988102279,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1132533610357566373,positive,"[""không gian"", ""chủ nhà""]","[""tiện nghi""]",en
+1170193293403687204,mixed,"[""vị trí"", ""chủ nhà"", ""sạch sẽ"", ""giá trị""]","[""tiện nghi""]",en
+1189831608246595196,positive,"[""chủ nhà"", ""sạch sẽ"", ""không gian"", ""an toàn"", ""vị trí""]",[],en
+1226734006357506040,positive,"[""không gian"", ""vị trí""]",[],en
+1383283717169410442,mixed,"[""không gian""]","[""sạch sẽ""]",en
+1433252400737493684,positive,"[""không gian"", ""chủ nhà""]",[],en
+1427534956384393709,negative,[],"[""không gian""]",en
+1187556066423772484,positive,"[""vị trí"", ""chủ nhà""]",[],en
+768544827,mixed,"[""không gian""]","[""độ ồn""]",en
+839050161746878527,positive,"[""vị trí""]",[],en
+417906160388089665,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1431182771517822213,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1444919369230648471,mixed,"[""vị trí"", ""tiện nghi""]","[""tiện nghi"", ""không gian""]",en
+586015688,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+870130482425926577,positive,"[""chủ nhà"", ""vị trí""]",[],en
+568445323,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+597763402,mixed,"[""sạch sẽ"", ""giá trị"", ""tiện nghi""]",[],en
+792692652346391716,mixed,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]","[""tiện nghi""]",en
+1307952727043418378,positive,"[""sạch sẽ"", ""vị trí""]",[],en
+1497088453928409137,positive,"[""sạch sẽ"", ""không gian"", ""vị trí""]",[],en
+755805810,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+769194352,positive,"[""không gian"", ""vị trí""]",[],en
+439653848730446923,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+749906063532141709,mixed,"[""chủ nhà"", ""tiện nghi""]","[""tiện nghi""]",en
+544486912,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+432342969834502015,positive,"[""chủ nhà"", ""tiện nghi""]",[],en
+467960702425637487,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+820156045201288336,positive,"[""vị trí"", ""an toàn"", ""tiện nghi""]",[],en
+883904991495616696,mixed,"[""vị trí"", ""sạch sẽ"", ""không gian""]","[""chủ nhà"", ""tiện nghi""]",en
+1097795796247926671,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+1175271895874609618,mixed,"[""vị trí"", ""tiện nghi""]","[""tiện nghi""]",en
+1259379392884742186,mixed,"[""vị trí"", ""an toàn"", ""tiện nghi"", ""không gian""]","[""chủ nhà""]",en
+1395612256922844409,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1454361839399836563,positive,"[""vị trí"", ""tiện nghi""]",[],en
+957901779865920576,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+532189830,mixed,"[""vị trí"", ""tiện nghi""]","[""tiện nghi""]",en
+583915139,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+956443166806955798,positive,"[""vị trí"", ""không gian""]",[],en
+1082510810249954497,mixed,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""không gian""]","[""độ ồn"", ""tiện nghi""]",en
+1168782069959776660,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]","[""tiện nghi""]",en
+1185412591702127751,mixed,"[""vị trí""]","[""tiện nghi""]",en
+1363068868288773995,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1154296801829954865,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+577313540,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+578973345,positive,"[""tiện nghi"", ""không gian""]",[],en
+603385523467581357,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+732495893853879125,positive,"[""chủ nhà""]",[],en
+915754854331623466,positive,"[""chủ nhà"", ""tiện nghi""]",[],en
+931010116512547537,positive,"[""sạch sẽ"", ""chủ nhà"", ""vị trí""]",[],en
+1062291804083539043,positive,"[""chủ nhà""]",[],en
+1118832775933740843,positive,"[""chủ nhà""]",[],en
+1205752245578624971,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+1238352330773222222,positive,"[""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+668692422325327054,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1204312950778669285,positive,"[""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+1418035176468262467,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1188390357500835886,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""an toàn"", ""tiện nghi""]",[],en
+1478284268127548728,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+766161175,mixed,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]","[""độ ồn""]",en
+398329306450559956,positive,"[""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+1460863820415753228,positive,"[""vị trí"", ""chủ nhà""]",[],en
+617918346,positive,"[""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+403399094367528940,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+485333885992004184,negative,[],"[""sạch sẽ"", ""giá trị"", ""độ ồn""]",en
+576670508572385295,mixed,"[""vị trí"", ""sạch sẽ""]","[""tiện nghi""]",en
+591155352587878249,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+1048494905121062739,mixed,"[""vị trí"", ""tiện nghi""]","[""độ ồn""]",en
+1484735499465610130,mixed,"[""vị trí""]","[""độ ồn"", ""tiện nghi""]",en
+570797533355247836,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+1410170374568586087,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+581045544335289830,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+915755195900269001,positive,"[""chủ nhà""]",[],en
+1016633797359903198,positive,"[""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+982501578395869329,mixed,"[""vị trí"", ""giá trị"", ""không gian""]","[""tiện nghi""]",en
+662047749,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+705684492,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+754623050,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+490435528757335536,positive,"[""vị trí"", ""sạch sẽ"", ""độ ồn"", ""tiện nghi""]",[],en
+516457455578445407,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""tiện nghi""]",[],en
+563601942723367394,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+720084606792599566,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1119496934009345890,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+1265847597939412925,negative,[],"[""giá trị"", ""tiện nghi""]",en
+918721001748114247,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1446372205401642718,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+593276265665157088,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+653408695890277726,positive,"[""vị trí"", ""chủ nhà""]",[],en
+715097066334690151,positive,"[""chủ nhà""]",[],en
+804899599138659989,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1320277784663846334,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+571620106654319986,positive,"[""chủ nhà""]",[],en
+775968586642214054,positive,"[""vị trí"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+657803019883723052,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+388880853081832372,positive,"[""vị trí"", ""chủ nhà""]",[],en
+483089911532784140,positive,"[""chủ nhà"", ""không gian""]",[],en
+794131643902803683,positive,"[""giá trị"", ""chủ nhà""]",[],en
+1081136869000816369,positive,"[""chủ nhà"", ""không gian""]",[],en
+982547933106838855,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+991899454253105642,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+994843175970615785,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+1089035464532518551,mixed,"[""vị trí"", ""không gian""]","[""tiện nghi""]",en
+425864776438092775,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""an toàn"", ""tiện nghi"", ""không gian""]",[],en
+875200999190321715,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+398284169943558963,positive,"[""vị trí"", ""chủ nhà""]",[],en
+453454154254059503,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+465756683409041793,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+484599765256289260,positive,"[""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+659964776151720316,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+902101771816470318,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+1037550113749046891,mixed,"[""vị trí"", ""chủ nhà"", ""không gian""]","[""tiện nghi""]",en
+643263136921191947,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1051423193162841195,mixed,"[""vị trí"", ""chủ nhà""]","[""tiện nghi""]",en
+1208671354826365659,positive,"[""vị trí""]",[],en
+1212242659176194967,positive,"[""chủ nhà"", ""không gian""]",[],en
+436725762836780342,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1404359316673967270,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""an toàn"", ""tiện nghi"", ""không gian""]",[],en
+1418762001172873803,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+1447062407616302379,positive,"[""vị trí"", ""chủ nhà"", ""an toàn""]",[],en
+915820886573521209,positive,"[""vị trí"", ""không gian""]",[],en
+561425762267302019,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1031831141340214778,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+1263739796577075151,positive,"[""không gian""]",[],en
+1313708249230460832,positive,"[""chủ nhà"", ""vị trí"", ""độ ồn"", ""an toàn""]",[],en
+1404256065748594344,mixed,"[""không gian"", ""chủ nhà"", ""vị trí""]","[""độ ồn"", ""tiện nghi""]",en
+1440608169782849623,positive,"[""vị trí""]",[],en
+507827431048093011,positive,"[""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+513542663796642016,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""tiện nghi""]",[],en
+998456645639216085,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1150621064570615828,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1256458791241380287,positive,"[""chủ nhà"", ""an toàn"", ""vị trí"", ""độ ồn""]",[],en
+1455076754215325171,mixed,"[""vị trí"", ""tiện nghi"", ""sạch sẽ""]","[""tiện nghi""]",en
+662819100214921149,positive,"[""không gian"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+855602569359625773,positive,"[""chủ nhà"", ""không gian""]",[],en
+1286250382369430969,positive,"[""không gian"", ""tiện nghi""]",[],en
+1457279847443610079,positive,"[""không gian"", ""chủ nhà""]",[],en
+482369666953758129,positive,"[""chủ nhà"", ""không gian""]",[],en
+516496342567069300,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1214455070965655497,positive,"[""không gian"", ""độ ồn"", ""vị trí"", ""tiện nghi""]",[],en
+961507646089697495,positive,"[""không gian"", ""chủ nhà""]",[],en
+1465190102276481915,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+682406356476783552,mixed,"[""vị trí""]","[""tiện nghi""]",en
+925907521705979263,negative,[],"[""độ ồn""]",en
+962187709053432334,positive,"[""sạch sẽ"", ""không gian"", ""an toàn"", ""chủ nhà""]",[],en
+1500666905116139257,positive,"[""sạch sẽ"", ""chủ nhà"", ""vị trí""]",[],en
+752740953083514299,positive,"[""chủ nhà"", ""vị trí""]",[],en
+820921080208918560,positive,"[""tiện nghi"", ""chủ nhà""]",[],en
+844134006280069377,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+928822910832168813,mixed,"[""vị trí"", ""chủ nhà""]","[""độ ồn""]",en
+1078164157777240202,negative,[],"[""chủ nhà""]",en
+1369524477752060754,positive,"[""vị trí"", ""tiện nghi""]",[],en
+1437706866548709966,positive,"[""không gian"", ""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+665015769494420232,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""sạch sẽ""]",[],en
+740398064442613248,positive,"[""không gian"", ""chủ nhà"", ""vị trí"", ""an toàn""]",[],en
+781035542263032520,mixed,"[""vị trí"", ""độ ồn"", ""không gian""]","[""tiện nghi""]",en
+1261516832476431027,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1479652489254960088,positive,"[""an toàn"", ""độ ồn"", ""vị trí"", ""chủ nhà""]",[],en
+973101120106209423,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí"", ""độ ồn""]",[],en
+1235489774144846568,positive,"[""vị trí"", ""độ ồn"", ""sạch sẽ"", ""không gian"", ""tiện nghi""]",[],en
+1326755895150925764,mixed,"[""không gian"", ""vị trí""]","[""an toàn""]",en
+612892102562670176,positive,"[""không gian""]",[],en
+862126211968570288,positive,"[""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+725958653697850505,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+894788751534863406,positive,"[""độ ồn""]",[],en
+984612870239832433,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+1037638926085100767,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+678137535284091141,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1116657032609316957,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1497049972661896278,mixed,"[""sạch sẽ"", ""vị trí"", ""tiện nghi""]","[""tiện nghi""]",en
+1000666556530244822,positive,"[""tiện nghi"", ""vị trí"", ""chủ nhà"", ""độ ồn""]",[],en
+1032497258788894732,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1241183666034356518,positive,"[""chủ nhà"", ""vị trí"", ""không gian""]",[],en
+724515770413113192,positive,"[""vị trí""]",[],en
+1320320133316525813,positive,"[""không gian"", ""sạch sẽ""]",[],en
+652674558431621915,positive,"[""chủ nhà"", ""không gian"", ""giá trị""]",[],en
+719420879687658015,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+640441753399243789,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+1012255252510322656,positive,"[""vị trí"", ""chủ nhà""]",[],en
+882446181852955042,positive,"[""vị trí""]",[],en
+988966731345619735,positive,"[""chủ nhà""]",[],en
+815048989174238301,positive,"[""tiện nghi"", ""sạch sẽ"", ""chủ nhà"", ""vị trí""]",[],en
+823845832730279428,mixed,"[""chủ nhà"", ""vị trí""]","[""sạch sẽ""]",en
+987581610208856416,positive,"[""chủ nhà"", ""không gian""]",[],en
+1134016600647376255,positive,"[""sạch sẽ"", ""vị trí""]",[],en
+1464484718176408536,positive,"[""vị trí"", ""không gian"", ""chủ nhà"", ""tiện nghi""]",[],en
+1465164170009391267,positive,"[""sạch sẽ"", ""không gian"", ""chủ nhà"", ""tiện nghi""]",[],en
+666503353071640327,positive,"[""chủ nhà"", ""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+752825828048254960,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+1261584384572667622,positive,"[""không gian"", ""tiện nghi"", ""sạch sẽ"", ""vị trí"", ""độ ồn""]",[],en
+781748043952147813,positive,"[""chủ nhà"", ""vị trí"", ""tiện nghi""]",[],en
+1008621861279571797,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""độ ồn""]",[],en
+1305090241580856330,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1301409890219414058,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí""]",[],en
+965093595574569097,positive,"[""chủ nhà""]",[],en
+1055698091328388363,positive,"[""chủ nhà""]",[],en
+683926371436526951,positive,"[""vị trí""]",[],en
+686010751362434579,positive,"[""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+891167925877520315,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi"", ""vị trí""]",[],en
+957083434518192327,positive,"[""không gian""]",[],en
+1115164378032522833,positive,"[""chủ nhà""]",[],en
+1122417496902978808,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1299240231071646202,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1429644025882215487,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+741142620533186356,positive,"[""sạch sẽ"", ""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+997757380021074308,positive,"[""vị trí""]",[],en
+1251424417537114099,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1175242871284537734,negative,[],"[""tiện nghi""]",en
+896983299845723805,positive,"[""vị trí"", ""chủ nhà""]",[],en
+955634943108599622,positive,"[""giá trị"", ""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1199967019910967925,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+889689092883272859,mixed,"[""vị trí""]","[""độ ồn"", ""tiện nghi""]",en
+905698394488455135,positive,"[""vị trí"", ""giá trị""]",[],en
+1055766643228731014,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1144153187062117319,positive,"[""không gian"", ""vị trí""]",[],en
+1333316605963369650,positive,"[""vị trí"", ""độ ồn"", ""sạch sẽ""]",[],en
+1476833368065739052,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+900604447447899885,mixed,"[""không gian"", ""chủ nhà""]","[""độ ồn""]",en
+931065068072719803,positive,"[""không gian"", ""tiện nghi""]",[],en
+1208583278378094759,positive,"[""không gian"", ""vị trí""]",[],en
+986856482000380125,positive,"[""vị trí"", ""không gian"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+1210074831841931682,mixed,"[""vị trí"", ""sạch sẽ"", ""độ ồn""]","[""tiện nghi""]",en
+1058647374157395613,positive,"[""giá trị"", ""chủ nhà""]",[],en
+1304303748923380100,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+1374662395282748918,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""giá trị"", ""tiện nghi""]",[],en
+1439101449898473693,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+839729050710831419,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+915124506470373963,mixed,"[""sạch sẽ"", ""chủ nhà""]","[""tiện nghi""]",en
+916518876075996323,positive,"[""vị trí"", ""độ ồn"", ""an toàn""]",[],en
+1178213610482888242,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+1487699256427396059,positive,"[""vị trí"", ""an toàn"", ""độ ồn""]",[],en
+1436985725202296692,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+839703086782419908,positive,"[""vị trí"", ""chủ nhà""]",[],en
+844146025390798165,positive,"[""vị trí"", ""chủ nhà""]",[],en
+939753625922349831,mixed,"[""sạch sẽ"", ""an toàn"", ""tiện nghi"", ""không gian""]","[""độ ồn""]",en
+1373214352602498188,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn""]",[],en
+1503655388718990159,positive,"[""vị trí"", ""không gian""]",[],en
+799927402469697221,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1363062470088434476,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""an toàn"", ""tiện nghi""]",[],en
+1012944070957233588,positive,"[""vị trí""]",[],en
+1369608759945984906,mixed,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]","[""tiện nghi""]",en
+1423914102646279466,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+1056487469786639907,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+764345694396894044,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""giá trị"", ""tiện nghi"", ""độ ồn""]",[],en
+1010724362184803437,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""độ ồn"", ""không gian""]",[],en
+992700910152053073,positive,"[""vị trí"", ""tiện nghi"", ""không gian""]",[],en
+943405809482216800,positive,"[""vị trí"", ""tiện nghi""]",[],en
+1153486447919325508,mixed,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]","[""tiện nghi""]",en
+793320131664050239,mixed,"[""vị trí"", ""tiện nghi""]","[""sạch sẽ"", ""tiện nghi""]",en
+1461550801656463701,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+1031136719444646758,mixed,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]","[""tiện nghi""]",en
+800584783177511369,negative,"[""vị trí"", ""chủ nhà""]","[""sạch sẽ"", ""độ ồn"", ""tiện nghi""]",en
+1131832042461473228,mixed,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]","[""tiện nghi""]",en
+1163690232974619400,mixed,"[""vị trí"", ""chủ nhà""]","[""tiện nghi"", ""không gian""]",en
+1104272420603201767,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""giá trị"", ""an toàn""]",[],en
+1131098095474036803,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn""]",[],en
+1254243589425692287,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+1182566570198520979,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1255041929682928120,negative,[],"[""sạch sẽ"", ""an toàn"", ""tiện nghi""]",en
+1485482999202279242,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1247731141327308803,mixed,"[""vị trí"", ""chủ nhà"", ""độ ồn""]","[""tiện nghi""]",en
+962241435601706537,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+1418789797226206465,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1107177532691620873,positive,"[""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+1202856139688308966,mixed,"[""vị trí"", ""chủ nhà""]","[""tiện nghi""]",en
+1084038467245206841,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1123103008323450937,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""không gian""]",[],en
+1139788233688192211,positive,"[""sạch sẽ"", ""tiện nghi""]",[],en
+760019550834039654,positive,"[""vị trí"", ""không gian""]",[],en
+1383992285415987758,positive,"[""vị trí"", ""tiện nghi""]",[],en
+901262734237820681,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""độ ồn"", ""không gian""]",[],en
+1156403212053968283,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1323853604472429877,positive,"[""vị trí"", ""tiện nghi"", ""độ ồn""]",[],en
+886807792854453471,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1004963178517197395,mixed,"[""vị trí"", ""chủ nhà""]","[""độ ồn""]",en
+1018055955112936236,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1194097825858807923,positive,"[""vị trí"", ""độ ồn""]",[],en
+1496403468589493836,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1471726762118755543,mixed,"[""tiện nghi""]","[""không gian""]",en
+898418264879307537,positive,"[""chủ nhà""]",[],en
+967244280390956851,mixed,"[""chủ nhà"", ""tiện nghi""]","[""tiện nghi""]",en
+1013001268527810509,positive,"[""vị trí"", ""sạch sẽ"", ""an toàn"", ""tiện nghi"", ""độ ồn"", ""không gian""]",[],en
+1152819529900454437,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1378264364775222816,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1455786572932915167,negative,[],"[""sạch sẽ"", ""tiện nghi""]",en
+1023074572758785072,mixed,"[""tiện nghi""]","[""tiện nghi""]",en
+1162926452908919606,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi""]",[],en
+1278282524957519468,mixed,"[""vị trí"", ""an toàn"", ""tiện nghi""]","[""tiện nghi""]",en
+972337754193749349,mixed,"[""sạch sẽ""]","[""độ ồn"", ""tiện nghi""]",en
+1469492552339892373,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1265178254689353820,mixed,[],"[""độ ồn"", ""tiện nghi""]",en
+1186158551071840710,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+950602012904163531,mixed,"[""vị trí"", ""tiện nghi""]","[""chủ nhà""]",en
+1094844969319234115,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1494940612372080190,positive,"[""vị trí"", ""không gian""]",[],en
+1251349399888114244,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1378243392073889443,positive,"[""vị trí"", ""sạch sẽ"", ""không gian""]",[],en
+1022354615179690418,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1107223963795010053,positive,"[""vị trí""]",[],en
+1205675954224031364,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+965150522116472271,positive,"[""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+1181798405263620031,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1048449045741725550,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1166538336553800663,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà""]",[],en
+961435541472182161,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+991895419099781752,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+904186282647339954,positive,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+994077598240767320,negative,[],"[""độ ồn"", ""tiện nghi""]",en
+1048450832388175673,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+1150602624963440403,mixed,"[""vị trí""]","[""độ ồn""]",en
+1283279000577344188,negative,[],"[""độ ồn""]",en
+1223115805095771980,mixed,"[""vị trí"", ""chủ nhà"", ""độ ồn"", ""không gian"", ""tiện nghi""]","[""không gian""]",en
+1441222323567257829,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+921590680346915999,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn"", ""không gian""]",[],en
+933261955741661217,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+913673497518906920,positive,"[""vị trí"", ""sạch sẽ"", ""không gian""]",[],en
+937533031381993409,positive,"[""vị trí""]",[],en
+1170213846127886436,mixed,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]","[""độ ồn""]",en
+1418759175504149778,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+980304073451981181,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1002013617808817345,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+1165081478355287618,positive,"[""chủ nhà"", ""tiện nghi"", ""không gian""]",[],en
+1406502175647338088,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi"", ""độ ồn"", ""không gian""]",[],en
+1452880943153857139,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1478266537840538780,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+1013017186498351889,positive,"[""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+1249957362893869394,positive,"[""vị trí""]",[],en
+957833104296471438,positive,"[""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+1276771709907886813,mixed,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]","[""không gian""]",en
+1003466571452347293,mixed,"[""vị trí"", ""tiện nghi""]","[""không gian""]",en
+1023740245151774137,positive,"[""vị trí""]",[],en
+1367339249161101329,positive,"[""vị trí"", ""tiện nghi""]",[],en
+1378996769897221648,mixed,"[""giá trị"", ""chủ nhà"", ""vị trí""]","[""sạch sẽ"", ""tiện nghi""]",en
+1265830224370979681,positive,"[""vị trí"", ""không gian""]",[],en
+972361996553507076,positive,"[""vị trí"", ""chủ nhà"", ""không gian""]",[],en
+986849277349937284,mixed,"[""vị trí"", ""không gian"", ""sạch sẽ""]",[],en
+1034683845534284619,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1112274734618514874,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1145595338547646393,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+1154933849390658412,positive,"[""tiện nghi""]",[],en
+1226061826665658373,positive,"[""vị trí""]",[],en
+1348535450134782995,positive,"[""chủ nhà"", ""vị trí"", ""độ ồn"", ""không gian""]",[],en
+1494160752485075710,positive,"[""không gian"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+1052864920161545746,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1339808168216931488,positive,"[""vị trí"", ""độ ồn"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1038998313521295155,negative,[],[],en
+1155727019240439922,positive,"[""vị trí"", ""không gian""]",[],en
+1036106589990459042,positive,[],[],en
+1238390732261508377,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1351472410987115214,positive,"[""chủ nhà""]",[],en
+1457900769898432570,positive,"[""không gian"", ""tiện nghi"", ""chủ nhà"", ""độ ồn"", ""vị trí""]",[],en
+1474662364220789528,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+1210107809188399549,positive,"[""vị trí"", ""sạch sẽ"", ""không gian"", ""chủ nhà""]",[],en
+1160753679196989596,positive,"[""không gian"", ""vị trí""]",[],en
+1175281047833513191,positive,"[""chủ nhà"", ""không gian"", ""vị trí""]",[],en
+1400021830431366252,positive,"[""không gian"", ""sạch sẽ""]",[],en
+1270205825416273893,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1278284340970893374,positive,"[""không gian"", ""vị trí""]",[],en
+1193403856086173576,positive,"[""chủ nhà"", ""sạch sẽ"", ""tiện nghi""]",[],en
+1230404369269268046,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1036153507294458976,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1191925432977368296,positive,"[""không gian"", ""độ ồn"", ""vị trí""]",[],en
+1195604610199992913,positive,"[""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1011537268651241620,positive,"[""chủ nhà""]",[],en
+1139796541428527757,positive,"[""sạch sẽ"", ""không gian"", ""vị trí"", ""chủ nhà""]",[],en
+1292053171147622486,positive,"[""chủ nhà"", ""sạch sẽ"", ""vị trí"", ""độ ồn""]",[],en
+1373939526807827299,positive,[],[],en
+1418845352478594581,positive,"[""chủ nhà"", ""không gian""]",[],en
+1426782747688940351,positive,"[""vị trí"", ""giá trị"", ""không gian"", ""an toàn""]",[],en
+1225305354438824634,positive,"[""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+1012200600137700846,positive,"[""tiện nghi"", ""chủ nhà""]",[],en
+1312274103827617711,mixed,"[""sạch sẽ"", ""chủ nhà"", ""vị trí""]","[""không gian""]",en
+1183280908551081902,positive,"[""vị trí"", ""sạch sẽ"", ""giá trị"", ""chủ nhà""]",[],en
+1249952285592645208,positive,"[""chủ nhà"", ""sạch sẽ"", ""không gian"", ""vị trí""]",[],en
+1439048636892609585,positive,"[""vị trí"", ""tiện nghi""]",[],en
+1476016271372996365,positive,"[""chủ nhà"", ""vị trí"", ""độ ồn""]",[],en
+1038300642736656604,positive,"[""chủ nhà""]",[],en
+1112319294934144418,positive,"[""vị trí"", ""độ ồn"", ""không gian""]",[],en
+1257168917990345339,positive,"[""vị trí"", ""chủ nhà""]","[""không gian""]",en
+1371739091471615098,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1227526891456857546,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+1473898704081809873,positive,"[""chủ nhà"", ""vị trí"", ""an toàn""]",[],en
+1376837583177045282,positive,"[""vị trí"", ""độ ồn"", ""tiện nghi"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1502104479758656110,positive,"[""sạch sẽ"", ""chủ nhà"", ""không gian""]",[],en
+1059399778912136002,mixed,"[""vị trí""]","[""độ ồn""]",en
+1418050689151439059,mixed,"[""độ ồn"", ""vị trí"", ""sạch sẽ"", ""giá trị"", ""tiện nghi""]",[],en
+1442668572433295789,positive,"[""vị trí"", ""tiện nghi"", ""sạch sẽ""]",[],en
+1059352586838361413,positive,"[""không gian"", ""độ ồn"", ""vị trí""]",[],en
+1373851252168245747,positive,"[""không gian"", ""vị trí""]",[],en
+1371691209161776379,positive,"[""sạch sẽ"", ""không gian""]",[],en
+1189032328010059940,positive,"[""không gian"", ""độ ồn"", ""vị trí"", ""chủ nhà"", ""giá trị""]",[],en
+1139737483873395374,positive,"[""sạch sẽ"", ""chủ nhà"", ""vị trí""]",[],en
+1291970366184778272,positive,"[""sạch sẽ"", ""vị trí"", ""độ ồn""]",[],en
+1457228939051825059,positive,"[""tiện nghi"", ""vị trí"", ""chủ nhà""]",[],en
+1176023834381978394,positive,"[""chủ nhà"", ""sạch sẽ"", ""độ ồn"", ""vị trí""]",[],en
+1376788467488086228,positive,"[""vị trí"", ""tiện nghi"", ""sạch sẽ""]",[],en
+1103516315102013393,mixed,"[""vị trí"", ""chủ nhà"", ""không gian"", ""sạch sẽ"", ""tiện nghi""]",[],en
+1125319889399672459,mixed,"[""vị trí"", ""không gian""]",[],en
+1137596970764956677,positive,"[""sạch sẽ"", ""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+1107905407280983031,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1202814452163087301,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1256489515871959466,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1375402975920129208,positive,"[""vị trí"", ""sạch sẽ"", ""giá trị"", ""chủ nhà""]",[],en
+1145548666534161681,positive,"[""chủ nhà""]",[],en
+1124520541699458644,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1392675546558012884,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+1236159492941001708,positive,"[""vị trí"", ""an toàn"", ""tiện nghi"", ""chủ nhà""]",[],en
+1321751590754374135,positive,"[""độ ồn"", ""không gian"", ""vị trí""]",[],en
+1267334699212030620,positive,"[""chủ nhà""]",[],en
+1121664671424658555,positive,"[""vị trí""]",[],en
+1413032811769486455,positive,"[""vị trí"", ""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+1120907826836468106,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1165109498574016539,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1178172698740516532,positive,"[""không gian"", ""chủ nhà""]",[],en
+1190480556229430459,mixed,"[""chủ nhà""]",[],en
+1277449367764542212,positive,"[""không gian"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+1484796045021584944,positive,"[""chủ nhà"", ""không gian"", ""sạch sẽ"", ""tiện nghi""]",[],en
+1508683233594455587,positive,"[""chủ nhà""]",[],en
+1326026335227870971,positive,"[""sạch sẽ"", ""chủ nhà"", ""vị trí"", ""độ ồn"", ""giá trị""]",[],en
+1202056513081828825,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1226033885159454249,positive,"[""vị trí"", ""sạch sẽ""]",[],en
+1182530202136636039,positive,"[""không gian"", ""tiện nghi"", ""sạch sẽ"", ""vị trí""]",[],en
+1217347880621494483,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1194161509482832853,positive,"[""tiện nghi"", ""chủ nhà"", ""vị trí""]",[],en
+1247094610196534731,positive,"[""vị trí"", ""độ ồn"", ""giá trị""]",[],en
+1459441594745606291,positive,"[""vị trí"", ""không gian"", ""tiện nghi""]",[],en
+1165812132518340051,mixed,"[""vị trí"", ""không gian"", ""chủ nhà""]","[""tiện nghi""]",en
+1489876484514941730,positive,"[""vị trí"", ""không gian"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1189755084991683496,mixed,"[""không gian"", ""sạch sẽ"", ""chủ nhà"", ""tiện nghi"", ""an toàn""]","[""tiện nghi""]",en
+1465966960502032080,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1467325611046671031,positive,"[""chủ nhà""]",[],en
+1258610220744457782,positive,"[""vị trí"", ""sạch sẽ"", ""chủ nhà"", ""độ ồn""]",[],en
+1307991140204635614,positive,"[""tiện nghi"", ""vị trí"", ""độ ồn"", ""chủ nhà""]",[],en
+1220946827025761576,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+1272415762194818339,positive,"[""chủ nhà""]",[],en
+1484768039396716361,positive,"[""không gian"", ""chủ nhà""]",[],en
+1185473833557006839,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1226054108702394157,positive,"[""vị trí"", ""độ ồn"", ""tiện nghi"", ""không gian""]",[],en
+1331177818880695443,positive,"[""vị trí"", ""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+1328201538827732450,positive,"[""chủ nhà"", ""không gian""]",[],en
+1194175126899780276,negative,[],"[""tiện nghi""]",en
+1185394373285647339,mixed,"[""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]","[""tiện nghi"", ""vị trí""]",en
+1223151491751462799,positive,"[""sạch sẽ"", ""không gian"", ""vị trí""]",[],en
+1214419625002014734,positive,"[""độ ồn"", ""vị trí""]",[],en
+1303574192321548582,positive,"[""không gian"", ""chủ nhà""]",[],en
+1485487411434195962,positive,"[""tiện nghi"", ""sạch sẽ"", ""độ ồn"", ""vị trí"", ""chủ nhà""]",[],en
+1323922625723505044,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1457175769376189354,positive,"[""chủ nhà""]",[],en
+1315934926463434135,positive,"[""vị trí"", ""chủ nhà"", ""tiện nghi""]",[],en
+1469535603575398361,positive,"[""giá trị"", ""tiện nghi""]",[],en
+1392706663118504235,positive,"[""không gian"", ""sạch sẽ"", ""chủ nhà""]",[],en
+1397071470221705796,positive,"[""không gian""]",[],en
+1416658922539131597,positive,"[""vị trí"", ""giá trị"", ""sạch sẽ""]",[],en
+1388360548150128115,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi"", ""chủ nhà""]",[],en
+1409380386415327844,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1226019757301899516,positive,"[""vị trí"", ""không gian"", ""tiện nghi"", ""sạch sẽ""]",[],en
+1398530705059758317,positive,"[""sạch sẽ"", ""giá trị""]",[],en
+1503622340294785021,positive,"[""độ ồn"", ""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+1359460673752171003,positive,"[""sạch sẽ"", ""vị trí"", ""chủ nhà""]",[],en
+1464464433271387103,negative,[],"[""độ ồn""]",en
+1473865297109023673,positive,"[""vị trí"", ""chủ nhà"", ""sạch sẽ""]",[],en
+1363076172236981343,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1240550779495795605,positive,"[""không gian"", ""tiện nghi"", ""vị trí"", ""độ ồn"", ""giá trị""]",[],en
+1370987884194099529,positive,"[""vị trí""]",[],en
+1488418026467728147,mixed,[],[],en
+1297782362264652550,positive,"[""sạch sẽ"", ""chủ nhà"", ""vị trí""]",[],en
+1456544818923775563,positive,"[""tiện nghi"", ""vị trí"", ""chủ nhà""]",[],en
+1324653290252282374,positive,"[""chủ nhà""]",[],en
+1408684579555462777,positive,"[""vị trí"", ""chủ nhà"", ""sạch sẽ""]",[],en
+1449997070834133987,positive,"[""vị trí"", ""tiện nghi"", ""chủ nhà""]",[],en
+1467388240860600226,mixed,"[""vị trí"", ""chủ nhà""]","[""độ ồn""]",en
+1426090754437577355,positive,"[""chủ nhà""]",[],en
+1307187927755466265,positive,"[""chủ nhà"", ""sạch sẽ""]",[],en
+1465159710803941735,mixed,"[""tiện nghi"", ""sạch sẽ"", ""chủ nhà""]","[""an toàn""]",en
+1333294340266877184,mixed,"[""vị trí""]","[""độ ồn"", ""sạch sẽ""]",en
+1463781920476909928,positive,"[""chủ nhà"", ""không gian""]",[],en
+1283361978346251478,mixed,"[""vị trí""]","[""độ ồn""]",en
+1466642049202188190,positive,"[""sạch sẽ"", ""chủ nhà""]",[],en
+1388415908815416560,positive,"[""vị trí""]",[],en
+1464417508418659278,positive,"[""vị trí""]",[],en
+1471699313216065760,positive,"[""vị trí"", ""không gian"", ""chủ nhà""]",[],en
+1505015609805832627,positive,"[""chủ nhà""]",[],en
+1432608020063930664,mixed,"[""sạch sẽ"", ""vị trí"", ""tiện nghi"", ""không gian""]","[""độ ồn""]",en
+1419511486080590348,positive,"[""chủ nhà"", ""vị trí"", ""độ ồn""]",[],en
+1461574052459444641,positive,"[""vị trí""]",[],en
+1497822902495181288,positive,"[""vị trí""]",[],en
+1332561466706925197,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1510180006424672088,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1392041993032588519,mixed,"[""không gian"", ""vị trí""]","[""sạch sẽ"", ""tiện nghi""]",en
+1400728143059361726,positive,"[""vị trí"", ""sạch sẽ"", ""không gian"", ""tiện nghi"", ""giá trị"", ""chủ nhà""]",[],en
+1348585050144935195,positive,"[""sạch sẽ"", ""không gian"", ""độ ồn""]",[],en
+1381849151000090106,positive,"[""vị trí"", ""không gian"", ""sạch sẽ""]",[],en
+1428960456697412114,positive,"[""vị trí"", ""không gian""]",[],en
+1475326162217409714,positive,"[""tiện nghi""]",[],en
+1490588275616670051,positive,"[""vị trí"", ""không gian"", ""độ ồn""]","[""giá trị""]",en
+1454346850083605050,positive,"[""vị trí"", ""độ ồn""]",[],en
+1491240079624586583,negative,"[""vị trí""]","[""tiện nghi""]",en
+1437698795697365500,positive,[],[],en
+1432580541253629970,positive,"[""sạch sẽ"", ""không gian"", ""tiện nghi"", ""chủ nhà""]",[],en
+1465958611764129321,positive,[],[],en
+1401413523373767944,positive,"[""chủ nhà"", ""giá trị""]",[],en
+1469571766014468055,positive,[],[],en
+1477477039138719807,positive,"[""vị trí"", ""sạch sẽ"", ""tiện nghi""]",[],en
+1434777949408040316,positive,"[""chủ nhà"", ""vị trí"", ""an toàn""]",[],en
+1453580420723096825,positive,"[""sạch sẽ"", ""chủ nhà"", ""vị trí"", ""tiện nghi""]",[],en
+1422489514529860857,positive,"[""sạch sẽ"", ""vị trí"", ""độ ồn""]",[],en
+1433246765061898378,positive,"[""an toàn"", ""chủ nhà"", ""tiện nghi""]",[],en
+1463066883816238754,positive,"[""chủ nhà"", ""vị trí""]",[],en
+1407219034057419078,mixed,"[""vị trí"", ""độ ồn""]","[""chủ nhà"", ""tiện nghi""]",en
+1436171640522635882,mixed,"[""vị trí"", ""an toàn"", ""chủ nhà"", ""sạch sẽ""]","[""độ ồn""]",en
+1423932090373541137,negative,[],"[""tiện nghi""]",en
+1411610232987834129,mixed,"[""chủ nhà"", ""giá trị"", ""vị trí""]","[""tiện nghi""]",en
+1430461769997827693,positive,"[""sạch sẽ"", ""độ ồn"", ""giá trị"", ""vị trí"", ""an toàn"", ""chủ nhà""]",[],en
+1454353785700578133,positive,"[""không gian"", ""tiện nghi"", ""sạch sẽ""]",[],en
+1498590474867449225,positive,"[""chủ nhà"", ""vị trí"", ""tiện nghi""]",[],en
+1429728852751557087,positive,"[""chủ nhà"", ""tiện nghi"", ""sạch sẽ""]",[],en
+1499260930526304967,positive,"[""giá trị"", ""sạch sẽ"", ""vị trí""]",[],en
+1402084033199113843,mixed,"[""vị trí"", ""chủ nhà""]","[""độ ồn""]",en
+1497834788898653460,positive,"[""vị trí"", ""an toàn"", ""sạch sẽ"", ""độ ồn"", ""chủ nhà"", ""không gian""]",[],en
+1439862032075673365,positive,"[""chủ nhà"", ""tiện nghi"", ""vị trí""]",[],en
+1460126533414411680,mixed,"[""vị trí""]","[""tiện nghi""]",en
+1479658650983781841,positive,"[""vị trí"", ""chủ nhà""]",[],en
+1439866271993243166,positive,"[""tiện nghi"", ""không gian"", ""chủ nhà""]",[],en
+1501459156627615342,positive,"[""vị trí""]",[],en

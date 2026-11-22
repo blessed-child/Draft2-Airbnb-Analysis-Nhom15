@@ -1,0 +1,7 @@
+nhan_tay,phuong_phap,support,positive,mixed,negative
+positive,llm,87,81,6,0
+mixed,llm,11,6,4,1
+negative,llm,2,0,1,1
+positive,baseline,87,78,9,0
+mixed,baseline,11,3,8,0
+negative,baseline,2,0,2,0
