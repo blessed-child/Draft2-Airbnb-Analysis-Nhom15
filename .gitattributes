@@ -1,0 +1,3 @@
+# Giữ nguyên byte của CSV phân công khi checkout trên Windows/Linux
+data/assignment/*.csv -text
+*.pdf binary

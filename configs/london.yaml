@@ -1,0 +1,49 @@
+city: london
+data_root: united-kingdom/england/london      # dựng URL: data.insideairbnb.com/<data_root>/<mốc>/...
+currency: GBP
+# Ghi ngày YYYY-MM-DD không nháy để YAML đọc thành datetime.date
+snapshots: [2025-09-14, 2025-12-13, 2026-03-21, 2026-06-19]
+
+assignment:
+  dataset_code: DSE2049-C07-G15-london
+
+qa:
+  price_max_gbp: 5000             
+  min_nights_cap: 365          
+  room_types: [Entire home/apt, Private room, Shared room, Hotel room]
+  calendar_days: 365             
+  keys:
+    listings: [snapshot_date, listing_id]
+    calendar: [snapshot_date, listing_id, calendar_date]
+    reviews: [snapshot_date, review_id]
+  coord_shift_max_km: 0.5         # Gắn cờ khi tọa độ cùng listing lệch quá 0,5 km giữa hai mốc liền nhau
+
+kpi:
+  area_col: neighbourhood_cleansed     
+  area_col_assignment: analysis_area    # KPI theo 8 vùng A01–A08
+  price_snapshot: 2026-06-19            # Dùng snapshot cuối để tính KPI giá, ngày phải để đúng định dạng YYYY-MM-DD
+  price_stat: median                    # Trung vị ít bị ảnh hưởng bởi giá cực cao
+  calendar_horizon_days: 90             # Từ ngày snapshot (tính cả ngày đó) đến trước ngày snapshot + 90
+  # Tỷ lệ sẵn có = số ngày-listing có available=true / số ngày-listing quan sát được hợp lệ
+  # Báo thêm độ phủ cửa sổ = số cặp listing-ngày quan sát hợp lệ / số cặp kỳ vọng
+  min_n: 10                             # Chỉ xếp hạng khu có ít nhất 10 listing hợp lệ cho KPI tương ứng
+  qa_compare: [gia_trung_vi_gbp, ty_le_ngay_san_co]   # Mã KPI không phụ thuộc độ dài cửa sổ
+
+llm:
+  provider: gemini
+  model: gemini-3.5-flash-lite
+
+  batch_size: 100               # Đã thử một batch 100 review; vẫn kiểm ID và phục hồi phần thiếu
+  max_tokens: 65536             # Giới hạn token đầu ra, gồm cả token suy nghĩ của Gemini
+  timeout_giay: 120              # Thời gian chờ đọc phản hồi, tính bằng giây
+  so_lan_thu: 3                 # Số lần gọi tối đa khi gặp lỗi mạng hoặc lỗi dịch vụ tạm thời
+  cho_giay: 5                   # Thời gian chờ ban đầu giữa hai lần thử, tăng dần sau mỗi lỗi
+
+  sample_size: 1000
+  aspects: [vị trí, sạch sẽ, chủ nhà, giá trị, tiện nghi, độ ồn, an toàn, không gian]
+  cache: data/processed/llm_cache.jsonl
+
+seed: 42
+
+download:
+  tai_lai: false
